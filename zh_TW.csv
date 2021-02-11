@@ -1,137 +1,252 @@
-Previous,上一頁
+All,全部
+None,無
+"Allowed Scopes",允許的範圍
+"You need more permissions to apply some of the rule updates.",你需要更多的權限才能更新規則。
+"You need more permissions to access website ""%1"".","你需要更多權限訪問此網站""%1""。"
+"Role Scopes",網站角色
+Custom,自訂
+"Read Details",詳細資料
+"Mark as Read",已讀
+"Are you sure?",是否確認?
 Remove,移除
-"Remove This Item",移除此物品
-"Clear All",全部清除
-"Address Book",通訊錄
-"Account Information",帳戶資訊
-"My Account",我的帳戶
-Summary,概要
-Settings,設定
+"Messages Inbox",收件匣訊息
+"You have %1 new system messages","你有 %1 條新訊息"
+"You have %1 new system message","你有 %1 條新訊息"
+"Incoming Message",收到訊息
+close,關閉
+Notifications,通知
+"The message has been marked as Read.",訊息已標記為已讀。
+"We couldn't mark the notification as Read because of an error.",系統未能標記錯誤提示為已讀。
+"Please select messages.",請選擇訊息。
+"A total of %1 record(s) have been marked as Read.","共有 %1 條記錄已標記為已讀。"
+"Total of %1 record(s) have been removed.","共有 %1 條記錄已被刪除。"
+"We couldn't remove the messages because of an error.",發生錯誤，我們未能刪除訊息。
+"The message has been removed.",該訊息已被刪除。
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","已顯示所有最新的系統通知。 要清除通知，請重新整理網頁。"
+"1 Hour","1 小時"
+"2 Hours","2 小時"
+"6 Hours","6 小時"
+"12 Hours","12 小時"
+"24 Hours","24 小時"
+critical,關鍵
+major,主要
+minor,次要
+notice,通知
+"Wrong message type",錯誤訊息類型
+"Wrong notification ID specified.","指定了錯誤的訊息 ID。"
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","在生產環境中不建議使用{{base_url}}作為加密／非加密的根網址，建議在Magento<a href=""%1"">設定</a>中更改為其他值。"
+"One or more of the Cache Types are invalidated: %1. ","一個或多個緩存類型都將失效︰ %1。 "
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","請前往<a href=""%1"">緩存管理</a>並刷新緩存類型。"
+"We were unable to synchronize one or more media files. Please refer to the log file for details.",有些媒體檔案未能同步，詳請參考例外日誌。
+"Synchronization of media storages has been completed.",媒體庫同步已完成。
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",你的網站伺服器設定未有阻止存取敏感檔案，請聯絡服務供應商。
+"System Messages:",系統訊息︰
+"Critical System Messages",關鍵系統消息
+"Major System Messages",主要系統消息
+"System messages",系統訊息
+Close,關閉
+"See All (",顯示全部（
+" unread)",未讀）
+"Show Toolbar",顯示工具列
+"Show List",顯示清單
+"Use HTTPS to Get Feed","使用 HTTPS 獲取資料"
+"Update Frequency",更新頻率
+"Last Update",最後更新
+Severity,嚴重程度
+"Date Added",新增日期
+Message,訊息
+Actions,動作
+"Manage Shopping Cart",管理購物車
+"Create Order",創建訂單
+Back,上一步
+"Add Products",新增商品
+"Update Items and Quantities",更新項目和數量
+"Are you sure you want to clear your cart?",確實要清除您的購物車嗎？
+"Clear my shopping cart",清除我的購物車
+"Add selections to my cart",將選項添加到我的車
+Cancel,取消
+"Shopping Cart for %1 in %2","在 %2 %1 的購物車"
+"Select products you want to buy",選擇你想要買的產品
 Product,商品
-SKU,商品編號
 Price,價格
 Quantity,數量
-Total,總計
-"Update Items and Quantities",更新項目和數量
+"Products in the Comparison List (%1)","在比較清單的產品(%1) "
+"Last ordered items (%1)","上次訂購的項目 (%1)"
+Products,產品
 ID,編號
-Action,操作
-Message,訊息
-No,否
-Yes,是
-Website,網站
-Save,儲存
-Delete,刪除
-"Save and Continue Edit",保存並繼續編輯
-"Add Attribute",添加產品屬性
-"Delete Attribute",刪除屬性
-"Use Default Value",使用預設值
-"Add New Option",添加新選項
-"Delete Option",刪除選項
-Code,代號
-"Sort Order",訂單排序
-Attributes,屬性
-"[STORE VIEW]",[商店總覽]
-None,無
-State/Province,州/省
-"Please Select",請選擇
-From,由
-To,至
-Customers,顧客
-"Page not found.",找不到頁面。
-"We can't add this item to your shopping cart right now.",現在無法新增至購物車
-label,標籤
-Inactive,閒置
-Active,激活
-Type,類別
-"Shopping Cart Items",購物車項目
-"New Attribute",新屬性
-"Input Type",輸入類型
-"Is Default",是預設
-Company,公司
-Address,位址
-"Street Address",首行地址
-City,城市
-"Zip/Postal Code",郵政編碼
-Country,國家
-Qty,數量
-Back,上一步
-Edit,編輯
-"Add New",新增
-"First Name",名字
-Name,名稱
-Email,電郵
-"* Required Fields","* 為必填項"
-Next,下一頁
-"Last Name",姓氏
-Status,狀態
-"Product Name",產品名稱
-Quantity:,數量︰
-Search,搜尋
-Actions,動作
-"Add to Cart",加到購物車
-Text,文字
-Role,角色
-Date,日期
-Template,範本
-"Payment Type",付款類型
-"Transaction Type",交易類型
-"Transaction ID",交易編號
-"CVV Verification","CVV 驗證"
-"Card number",卡號
-"Expiration Date",到期日期
-"Sorry, but something went wrong",對不起，出了問題。
-"Authorize Only",僅授權
-"Authorize and Capture",授權和提取
-"Credit Card Type",信用卡類型
-"Credit Card Number",信用卡卡號
-"Card Verification Number",信用卡驗證號碼
-Enabled,啟用
-Title,標題
-"Payment Action",付款操作
-Debug,除錯
-"Credit Card Types",信用卡類型
-"Payment from Applicable Countries",適用國家的付款
-"Payment from Specific Countries",特定國家的付款
-"Start Date",開始日期
-Cancel,取消
-"Changes have been made to this section that have not been saved.",對本節進行的修改尚未保存。
-"This tab contains invalid data. Please resolve this before saving.","此選項卡包含無效數據。 保存前請解決此問題。"
-"records found",找到的記錄
-selected,"已選的 "
-"Something went wrong.",發生錯誤
-Done,完成
-options,選項
-Select...,"選擇… "
-"Select All",全選
-"Please enter a number 0 or greater in this field.",請在該字段中輸入大過於0的數字。
-"We don't recognize or support this file extension type.",我們無法識別或不支援此檔案類型。
-OK,確定
-Close,關閉
-Ok,確定
-"Select Items",選擇項目
-Submit,提交
-Reset,重置
+SKU,商品編號
+"Recently Compared Products (%1)","最近比較的產品 (%1)"
+"Recently Viewed Products (%1)","最近流覽過的產品 (%1)"
+"Add to Shopping Cart by SKU",從SKU添加到購物車
+"Add to Shopping Cart",添加到購物車
+"Wish List (%1)","願望清單 (%1)"
 Apply,套用
-Export,匯出
-"We couldn't find any records.",我們找不到任何記錄。
-Custom,自訂
-"per page",每頁
-"Attribute Code",屬性代碼
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.","這是在內部使用。請確保您不使用空格或多過 %1 個符號。"
-"Default Value",預設值
-"Unique Value",獨特值
-"Unique Value (not shared with other products)","（不能與其他產品共用） 的獨特值"
-"Not shared with other products.",不能與其他產品共用
-"Input Validation for Store Owner",店主的輸入驗證
-Required,必要
-System,系統
-"Multiple Select",選擇多個
-"Not shared with other products",不能與其他產品共用
-"Advanced Inventory",進階庫存
-"Use Config Settings",使用配置設置
-"Allow Multiple Boxes for Shipping",允許多個貨品同時運送
-"Front-end development workflow",前台開發工作流程
-"Create Permanent Redirect for old URL","tcpu. idv. tw/shoppingcar"
+Configure,設定
+"Add to Order by SKU","從 SKU 添加訂單"
+"Add to Order",添加到訂單
+"Add Products to Order",將產品添加到訂單
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> 件產品需要注意。</span>"
+"Remove All",全部刪除
+"Only %1%2%3 left in stock","庫存中只剩有 %1%2%3"
+"You can buy up to %1 of these per purchase.","每次購買，您最多可以購買 %1。"
+"You must buy at least %1 of these per purchase.","你每次必須購買至少 %1 件產品。"
+"Specify the product's options.",指定的產品選項。
+"Alert me when this item is available.",當產品可買時，請通知我。
+"Shopping cart management is disabled for this customer.",此客戶的購物車被禁用。
+Customers,顧客
+"Shopping Cart",購物車
+"You do not have access to this.",你沒有這個權限。
+"An error has occurred. See error log for details.",發生錯誤。請參閱錯誤日誌的詳細資訊。
+"You cannot configure a product.",您不能設置的產品。
+"You removed the items.",您刪除了項目。
+"You removed the item.",您刪除了項目。
+"You added %1 to your shopping cart.","您已添加 %1 到您的購物車"
+"You cannot add a product.",您不能添加產品。
+"Order by SKU","按 SKU 排序"
+"The SKU was not found in the catalog.","在目錄中找不到該商品的 SKU。"
+"Availability: Out of stock.","庫存: 缺貨。"
+"We don't have as many of these as you want.",我們沒有你想要的那麼多
+"You can't add this many to your cart.",您不能添加這麼多到您的購物車。
+"You need to choose options for your item.",您需要為您的項目選擇選項。
+"We can't add the item to your cart.",我們不能添加這項目到您的購物車。
+"Please enter an actual number in the ""Qty"" field.","請在""數量""欄位中輸入的實際數。"
+"This product is assigned to another website.",本產品被分配給另一個網站。
+"You can add only enabled products.",您可以添加只啟用的產品。
+"You cannot upload this file.",你無法上載此檔。
+"The file is empty.",該檔案是空的。
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","您還沒有輸入產品的 SKU。請 <a href=""%1""> 按一下此處</a> 以添加產品的 SKU。"
+"You have not entered a product SKU.","您還沒有輸入產品的 SKU。"
+"We can't add a product to cart by id ""%1"".","我們不能添加產品 id ""%1"" 到購物車。"
+"Something went wrong while reordering this product.",本產品在重新排序時發生錯誤。
+"We can't find this wish list.",我們找不到這個願望清單。
+"You added %1 product to your shopping cart.","%1 件產品添加到您的購物車。"
+"You added %1 products to your shopping cart.","%1 件產品添加到您的購物車。"
+"%1 product requires your attention.","%1 產品需要您注意。"
+"%1 products require your attention.","%1 產品需要您注意。"
+"Yes, for Specified Customer Groups",是，給指定的客戶群。
+"Yes, for Everyone",是，給每個人
+No,否
+"Please upload the file in .csv format.","請上傳.csv 格式的檔。"
+"%1 item(s) need your attention.","%1 個項目需要您的關注。"
+"Apply Coupon Code",輸入優惠券代碼
+"Remove Coupon Code",刪除優惠券代碼
+"The coupon code ""%1"" is not valid.","優惠券代碼""%1""無效。"
+"Shopping Cart Items",購物車項目
+Qty,數量
+Subtotal,小計
+Discount,折扣
+"Row Subtotal","行 小計"
+Action,操作
+"No ordered items",沒有訂購項目
+"Total %1 product(s)","總數 %1 產品"
+Subtotal:,小計:
+"Please select",請選擇
+"Move to Wish List",移動到願望清單
+"No item specified.",沒有指定的項目。
+"Are you sure you want to remove this item?","您是否確定要刪除此項目？ "
+"SKU number","SKU 編號"
+"Upload File",上載檔案
+"Your csv file must include ""sku"" and ""qty"" columns.","您的 csv 檔必須有""sku""和""數量""列。"
+Reset,重置
+"Only <span id=""%1_max_allowed"">%2</span> in stock","只有 <span id=""%1_max_allowed"">%2</span> 的庫存"
+Item,項目
+"See price before order confirmation.",確認訂單前請確認價格。
+"What's this?",這是什麼？
+"Incl. Tax",含稅
+"Excl. Tax",不含稅
+"Edit item parameters",修改参數
+Edit,編輯
+"Remove item",刪除項目
+"Products Requiring Attention",需要注意的產品
+"Add to Cart",加到購物車
+File,檔案
+"File extensions allowed: .csv",檔副檔名允許︰.csv
+"Add Row",添加行
+"Remove Row",刪除行
+"Add Products By SKU","添加產品的 SKU"
+"Shopping Cart Management",購物車管理
+"View Shopping Cart",查看購物車
+"View and modify Shopping Cart",查看和修改購物車
+"Order by SKU Settings","由 SKU 順序"
+"Enable Order by SKU on My Account in Storefront","在店面上我的賬戶啟用 SKU 排序"
+"Customer Groups",客戶群組
+"Apply Coupon",申請優惠券
+"Order by SKU Description","按SKU 描述排列"
+"Display a Link to Loading a Spreadsheet",顯示一個載入試算表的連結
+"Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget","定義是否連結到我的帳戶 &gt; 依照SKU 排序的頁面將顯示在widget內"
+"Link Text",連結文字
+"The text of the link to the My Account &gt; Order by SKU page","到我的帳戶的連結顯示的文字內容 &gt; 依照SKU排序的頁面"
+"Load a list of SKUs","加载 SKU 的列表"
+"Order by SKU Template",按SKU排序的範本
+"Please correct the data sent.",請更正發送的資料。
+"Entity type model '%1' is not found","找不到實體類型模型 '%1'"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","實體類型必須屬於 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType 裡的其中一個類型"
+"There are no product types available for export",無產品類型可輸出
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 類並不實現 \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface"
+"Sales Rule",銷售規則
+"Index sales rule",索引銷售規則
+"Related Search Terms",相關的搜索詞彙
+"Add New Search Term",添加新的搜索
+"Missing search engine parameter.",找不到搜尋引擎參數
+"Successful! Test again?","成功 ！再次測試嗎？"
+"Connection failed! Test again?","連接失敗 ！再次測試嗎？"
+"Enable Search Recommendations",啟用搜索建議
+"When you enable this option your site may slow down.",當您啟用此選項時您的網站可能會慢下來。
+"Search Recommendations Count",搜索建議數
+"Show Results Count for Each Recommendation",顯示每項建議的結果數
+"Enable Search Suggestions",啟用搜索的建議
+"Search Suggestions Count",搜索建議數
+"Show Results Count for Each Suggestion",顯示每個建議的結果數
+"Search Query",搜尋查詢
+Store,商店
+Results,結果
+Uses,使用
+"Redirect URL",重定向超連結
+"Suggested Term",建議的條件
+Yes,是
+"RPC call failed, connection timed out after %time_out.","RPC 調用失敗，連接 %time_out 後逾時。"
+"Message has been rejected: %1","被拒絕的信息︰ %1"
+"Error while checking if topic is synchronous",檢查主題是否同步時出錯
+"Subscription status",訂閱狀態
+"Sorry, there has been an error processing your request. Please try again later.",對不起，在處理您的請求時出現錯誤。請稍後重試。
+"There was an error save new configuration value.",保存新配值時出現錯誤。
+"--Please Select--",-請選擇-
+TestMessage,測試訊息
+"Apps and Games",應用程式和遊戲
+"Athletic/Sporting Goods",體育/運動用品
+"Art and Design",藝術與設計
+Analytics,分析
+Configuration,配置
+Done,完成
+Retry,重試
+"%1 item(s) have been scheduled for update.""","%1 項目已經安排更新。"""
+"Bulk Actions Log",批量操作記錄
+"%1 item(s) are currently being updated.",%1項目正在更新。
+"%1 item(s) have been scheduled for update.","%1 項目已經安排更新。"
+"%1 item(s) have been successfully updated.","%1 項目已成功更新。"
+"%1 item(s) failed to update","%1 項目更新失敗"
+Details,詳細資料
+"View Details",檢視詳細資料
+Dismiss,忽略
+"%1 items selected for mass update","大規模更新%1 項目"
+", %1 successfully updated","%1 已成功更新"
+", %1 failed to update","%1 更新失敗"
+"Something went wrong.",發生錯誤
+"Action Log",操作記錄
+"Bulk Actions",批量操作
+"Description of Operation",操作說明
+Summary,概要
+"Start Time",開始時間
+"Items to Retry",重試項目
+"To retry, select the items and click “Retry”.","要重試，請選中該項目，按一下""重試""。"
+"Items That Can’t Be Updated.",不能更新的項目。
+Status,狀態
+"Meta Information",元資訊
+Error,"錯誤 "
+"Dismiss All Completed Tasks",關閉所有已完成的任務
+"Action Details - #",操作詳細資訊-#
+"Number of Records Affected",受影響的記錄數目
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",編譯允許的資源列表時出錯。您可以在例外日誌中找到更多內容。
 "You created the order.",您建立了訂單。
 "Order saving error: %1",訂單保存錯誤：%1
 "Please choose a payment method.",請選擇您的付款方式。
@@ -162,7 +277,14 @@ void,無效
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","發生錯誤 ︰ 已付的金額與訂單額不符。請更正此錯誤，然後重試。"
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","交易%1已獲得批准。 金額%2。 交易狀態為“%3”"
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","交易%1無效/被拒絕。 交易狀態為“%2”。 金額%3。"
+"Authorize Only",僅授權
+"Authorize and Capture",授權和提取
 "Unable to get transaction details. Try again later.",無法獲取交易記錄詳細資訊。稍後再試。
+"Credit Card Type",信用卡類型
+"Please Select",請選擇
+"Credit Card Number",信用卡卡號
+"Expiration Date",到期日期
+"Card Verification Number",信用卡驗證號碼
 "Fraud Detection ","欺詐檢測 "
 "FDS Filter Action","FDS 篩選器操作"
 "AVS Response",AVS地址驗證服務
@@ -172,6 +294,9 @@ void,無效
 "Place Order",確認訂單
 "Sorry, but something went wrong. Please contact the seller.","對不起，出了問題。 請聯繫賣家。"
 "Authorize.net Direct Post","Authorize.net 直接付款"
+Enabled,啟用
+"Payment Action",付款操作
+Title,標題
 "API Login ID","API 的登入識別碼"
 "Transaction Key",交易金鑰
 "Merchant MD5","商戶 MD5"
@@ -180,18 +305,531 @@ void,無效
 "Gateway URL",閘道網址
 "Transaction Details URL","交易明細 URL"
 "Accepted Currency",接受的貨幣
+Debug,除錯
 "Email Customer",電郵客戶
 "Merchant's Email",商戶的電子郵件
+"Credit Card Types",信用卡類型
 "Credit Card Verification",信用卡驗證
+"Payment from Applicable Countries",適用國家的付款
+"Payment from Specific Countries",特定國家的付款
 "Minimum Order Total",最小訂單總數
 "Maximum Order Total",最大訂單總計
+"Sort Order",訂單排序
 "Cannot place order.",不能下訂單。
-"Order by SKU","按 SKU 排序"
-"Remove Row",刪除行
-"Sorry, something went wrong. You can find out more in the error log.",抱歉，出問題了。你可以在錯誤日志中找到更多的信息。
+Environment,環境
+options,選項
+"Select all",全部選取
+"Deselect all",取消全選
+"%s of %s selected","%s %s 已選中"
+"B2B Features","B2B 特點"
+"Invalid Form Key. Please refresh the page.",無效表單金鑰，請刷新頁面。
+"You entered an invalid Secret Key. Please refresh the page.",輸入的金鑰不正確，請刷新此頁面。
+"Cache Storage Management",緩存記憶管理
+"Flush Magento Cache",清空Magento緩存
+"The cache storage may contain additional data. Are you sure that you want to flush it?",緩存記憶可能包含其他資料，確定清空？
+"Flush Cache Storage",清空緩存記憶
+Invalidated,無效
+Orders,訂單
+Amounts,金額
+Bestsellers,暢銷產品
+"Most Viewed Products",最受歡迎的產品
+"New Customers",新客戶
+Customer,客戶
+Guest,訪客
+Items,項目
+Total,總計
+"Lifetime Sales",累計銷售
+"Average Order",平均訂單量
+Average,平均值
+Views,點擊率
+Revenue,收入
+Tax,稅金
+Shipping,物流
+"Images (.gif, .jpg, .png)",圖片（.gif、.jpg、.png）
+"Media (.avi, .flv, .swf)",媒體（.avi、.flv，.swf）
+"All Files",所有檔案
+"Reset to Default",重設為預設值
+"All Store Views",所有店面
+"What is this?",這是什麽？
+"Save Account",儲存帳戶
+"My Account",我的帳戶
+"Account Information",帳戶資訊
+"User Name",使用者名稱
+"First Name",名字
+"Last Name",姓氏
+Email,電郵
+"User Email",使用者電郵
+"New Password",新密碼
+"Password Confirmation",密碼確認
+"Interface Locale",介面地區設定
+"Current User Identity Verification",當前使用者身份驗證
+"Your Password",您的密碼
+"Save Cache Settings",儲存緩存設定
+"Catalog Rewrites",目錄重寫
+Refresh,重新整理
+"Images Cache",圖片緩存
+Clear,清除
+"Search Index",搜尋索引
+Rebuild,重建
+"Inventory Stock Status",庫存狀態
+"Rebuild Catalog Index",重建產品索引
+"Rebuild Flat Catalog Category",重建平面類別
+"Rebuild Flat Catalog Product",重建平面產品
+"Cache Control",緩存控制
+"All Cache",所有緩存
+"No change",沒有變更
+Disable,停用
+Enable,啟用
+"Add Design Change",新增設計修正
+Delete,刪除
+Save,儲存
+"Edit Design Change",編輯設計修正
+"New Store Design Change",新店設計修正
+"General Settings",一般設定
+"-- Please Select --","-- 請選擇 --"
+"Custom Design",自訂設計
+"Date From",從日期
+"Date To",到日期
+"Design Change",設計修正
+General,一般
+"Delete %1 '%2'","刪除 %1 '%2'"
+"Delete %1","刪除 %1"
+"Block Information",區塊資訊
+"Backup Options",備份選項
+"Create DB Backup",創建資料庫備份
+"Delete Store",刪除商店
+"Delete Web Site",刪除網站
+"Save Web Site",儲存網站
+"Save Store",儲存商店
+"Save Store View",儲存店面
+"Delete Store View",刪除店面
+"Edit Web Site",編輯網站
+"New Web Site",新增網站
+"Edit Store",編輯商店
+"New Store",新增商店
+"Edit Store View",編輯店面
+"New Store View",新增店面
+"Store Information",商店資訊
+"Web Site",網站
+Name,名稱
+Code,代號
+"Root Category",根類別
+"Default Store View",預設店面
+"Store View Information",店面資訊
+Disabled,停用
+"Web Site Information",網站資訊
+"Default Store",預設商店
+"Set as Default",設為預設
+Stores,商店
+"Create Website",創建網站
+"Create Store",創建商店
+"Create Store View",創建店面
+Home,首頁
+"Are you sure you want to do this?",你確定你想要這樣做？
+"Add New Image",新增圖片
+"Export block for grid %1 is not defined","未定義網格 %1 的匯出區塊"
+"Reset Filter",重設篩選
+Search,搜尋
+Any,任何
+"All Countries",所有國家
+From,由
+To,至
+"Date selector",選擇日期
+"[ deleted ]",[已刪除]
+"Select All",全選
+"We couldn't find any records.",我們找不到任何記錄。
+"Add New",新增
+"Invalid export type supplied for grid export block",網格匯出區塊指定了無效的匯出類型
+Export,匯出
+"Please correct the column format and try again.",請更正欄位格式然後再試。
+Submit,提交
+"Unknown block type",未知的區塊類型
+"Please correct the tab configuration and try again. Tab Id should be not empty",請更正分頁配置然後重試，分頁編號不能為空。
+"Please correct the tab configuration and try again.",請更正分頁配置然後重試。
+"You have logged out.",您已登出。
+"The image cache was cleaned.",已清空圖像緩存。
+"An error occurred while clearing the image cache.",清空圖像緩存時出錯。
+"The JavaScript/CSS cache has been cleaned.",已清理JavaScript/CSS緩存。
+"An error occurred while clearing the JavaScript/CSS cache.",清理JavaScript/CSS緩存時出錯。
+"The static files cache has been cleaned.",已清理靜態檔緩存。
+"You flushed the cache storage.",你已清空緩存記憶。
+"The Magento cache storage has been flushed.",已清空Magento緩存記憶。
+"Cache Management",緩存管理
+"You can't change status of cache type(s) in production mode",在生產環境中不能更改緩存類型
+"%1 cache type(s) disabled.","%1 種緩存類型已被停用。"
+"An error occurred while disabling cache.",停用緩存時出錯。
+"%1 cache type(s) enabled.","已啟用 %1 個緩存類型。"
+"An error occurred while enabling cache.",啟用緩存時出錯。
+"%1 cache type(s) refreshed.","已刷新 %1 個緩存類型。"
+"An error occurred while refreshing cache.",刷新緩存時出錯。
+Dashboard,總覽
+"We updated lifetime statistic.",我們更新了壽命統計。
+"We can't refresh lifetime statistics.",我們不能更新終生統計。
+"invalid request",無效的請求
+"see error log for details",詳請參閱錯誤日誌
+"Service unavailable: %1","服務不可用︰ %1"
+"Access Denied.",存取被拒。
+"You need more permissions to do this.",你需要更多的權限權來執行此操作。
+"No search modules were registered",沒有註冊搜索模塊
+"Please make sure that all global admin search modules are installed and activated.",請確保所有的全域管理員搜索模組已安裝並啟動。
+"You saved the account.",你已儲存此帳戶。
+"An error occurred while saving account.",儲存帳戶時出錯。
+"You deleted the design change.",你已刪除此設計編輯。
+"You can't delete the design change.",您不能刪除此設計編輯。
+"Store Design",商店設計
+"Edit Store Design Change",儲存商店設計編輯
+"You saved the design change.",你已儲存設計編輯。
+System,系統
+"Manage Stores",管理商店
+"The database was backed up.",資料庫已備份。
+"We can't create a backup right now. Please try again later.",我們現在不能建立一個備份。請稍後再試。
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","刪除%1並不會刪除與%1相關聯的信息（例如類別，產品等），但%1將無法恢復。 建議您在刪除%1之前創建資料庫備份。"
+"Something went wrong. Please try again.",出了錯。請再試一次。
+"This store cannot be deleted.",不能刪除此商店。
+"You deleted the store.",你已刪除此商店。
+"Unable to delete the store. Please try again later.",無法刪除商店，請稍後再試。
+"This store view cannot be deleted.",不能刪除此店面。
+"Store View",店面
+"You deleted the store view.",你已刪除此店面。
+"Unable to delete the store view. Please try again later.",無法刪除店面，請稍後再試。
+"This website cannot be deleted.",不能刪除此網站。
+"You deleted the website.",你已刪除此網站。
+"Unable to delete the website. Please try again later.",無法刪除網站，請稍後再試。
+"The website does not exist.",網站不存在。
+"Before modifying the website code please make sure it is not used in index.php.","修改網站代碼前請確保它不用在 index.php 中。"
+"The store does not exist",商店不存在
+"Store view doesn't exist",店面不存在
+"Before modifying the store view code please make sure it is not used in index.php.","修改店面代碼前請確保它不用在 index.php 中。"
+"New ","新增 "
+"All Stores",所有商店
+"You saved the website.",你已儲存網站。
+"The default store cannot be disabled",預設商店不能被停用
+"You saved the store view.",您已儲存店面。
+"An inactive store view cannot be saved as default store view",處於非活動狀態店面不能保存為預設店面
+"You saved the store.",你已儲存了商店。
+"Something went wrong while saving. Please review the error log.",儲存時出錯，請查看錯誤日誌。
+"Authentication storage is incorrect.",不正確的認證記憶。
+"Last 24 Hours","最近 24 小時"
+"Last 7 Days","最近 7 天"
+"Current Month",這個月
+YTD,本年度
+2YTD,兩年度
+Order,訂單
+"Order #%1","訂單 #%1"
+"Welcome, please sign in",歡迎光臨，請先登錄
+Username,帳號
+"user name",使用者名稱
+Password,密碼
+password,密碼
+"Sign in",登入
+"No Data Found",找不到資料
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","圖表已停用。若要啟用圖表，請按 <a href=""%1"">這裡</a>。"
+"Select Range:",選擇範圍︰
+"Last Orders",最新訂單
+"Last Search Terms",最新搜尋
+"Top Search Terms",熱門搜尋
+"There are no search keywords.",沒有搜尋關鍵字。
+"View Statistics For:",查看統計資料︰
+"All Websites",所有網站
+"Reload Data",重新載入資料
+"Browse Files...",瀏覽檔案⋯
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","版權所有 &copy; %1 Magento Commerce Inc. 保留所有權利。"
+"ver. %1","版本 %1"
+"Magento Admin Panel","Magento 管理面板"
+"Account Setting",帳戶設定
+"Customer View",客戶介面
+"Sign Out",登出
+"About the calendar",關於日曆
+"Go Today",今天去
+Previous,上一頁
+Next,下一頁
+Time,時間
+Hour,小時
+Minute,分
+"JavaScript may be disabled in your browser.","您的瀏覽器可能已停用 JavaScript。"
+"To use this website you must first enable JavaScript in your browser.","要使用本網站必須首先在您的瀏覽器啟用 JavaScript。"
+"This is only a demo store. You can browse and place orders, but nothing will be processed.",這是只是一個演示的商店。您可以瀏覽並下訂單，但將不被處理。
+"Stores Configuration",商店設置
+"Please confirm scope switching. All data that hasn't been saved will be lost.",請確認範圍切換。所有未保存的資料將都會丟失。
+"Additional Cache Management",額外的緩存管理
+"Flush Catalog Images Cache",清空產品圖片緩存
+"Pregenerated product images files",預先生成的產品圖片
+"Flush JavaScript/CSS Cache","清空 JavaScript/CSS 緩存"
+"Themes JavaScript and CSS files combined to one file","主題 JavaScript 和 CSS 檔合併到一個檔案。"
+"Flush Static Files Cache",沖洗靜態檔案快取
+"Preprocessed view files and static files",預先處理的視圖檔和靜態檔
+Catalog,目錄
+JavaScript/CSS,"JavaScript 和 CSS"
+"JavaScript/CSS Cache","JavaScript 和 CSS 緩存"
+"No records found.",找不到記錄。
+Images,圖片
+"Big Image",大圖像
+Thumbnail,縮圖
+"Additional Settings",附加設置
+"records found",找到的記錄
+selected,"已選的 "
+"per page",每頁
+"Previous page",上一頁
+"of %1",%1的
+"Next page",下一頁
+"Export to:","匯出至 "
+"Mass Actions",大規模的操作
+"Unselect All",全部取消選擇
+"Select Visible",選擇可見
+"Unselect Visible",取消選擇可見
+"Changes have been made to this section that have not been saved.",對本節進行的修改尚未保存。
+"This tab contains invalid data. Please resolve this before saving.","此選項卡包含無效數據。 保存前請解決此問題。"
+"The information in this tab has been changed.",此選項卡中的資訊已更改。
+Loading...,載入中...
+"User Agent Rules",使用者代理規則
+"We could not detect a size.",我們無法檢測到大小。
+"Allow everything",允許一切
+"Magento Admin","Magento 管理員"
+"Global Search",全域搜索
+Marketing,行銷
+"SEO & Search","SEO 與搜索"
+"User Content",使用者內容
+Content,內容
+Elements,元素
+Design,設計
+Schedule,"日程表 "
+Settings,設定
+Attributes,屬性
+"Other Settings",其他設定
+"Data Transfer",檔案傳輸
+"Connect Manager",連線管理員
+"Package Extensions",擴充包
+Tools,工具
+Currency,貨幣
+Communications,通信
+Services,服務
+Advanced,進階
+"Disable Modules Output",停用模組輸出
+"Store Email Addresses",存儲電郵地址
+"Custom Email 1","自訂電郵 1"
+"Sender Email",寄件者電郵
+"Sender Name",寄件者名稱
+"Custom Email 2","自訂電郵 2"
+"General Contact",一般聯絡人
+"Sales Representative",銷售代表
+"Customer Support",客戶支援
+Developer,開發人員
+"Template Settings",範本設定
+"Allow Symlinks",允許符號連結
+"Minify Html",簡化Html
+"Minification is not applied in developer mode.",開發模式不簡化。
+"Translate Inline",內嵌翻譯
+"Enabled for Storefront",於店面啟用
+"Enabled for Admin",於管理面版啟用
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",店面和管理面版的內嵌翻譯中，應該停用翻譯、區塊和其它輸出緩存。
+"JavaScript Settings","JavaScript 設定"
+"Merge JavaScript Files","合併 JavaScript 檔案"
+"Enable JavaScript Bundling","啟用 JavaScript 捆綁"
+"Minify JavaScript Files","簡化 JavaScript 檔案"
+"CSS Settings","CSS 設定"
+"Merge CSS Files","合併 CSS 檔案"
+"Minify CSS Files","簡化 CSS 檔案"
+"Image Processing Settings",圖像處理設定
+"Image Adapter",圖像配接器
+"Static Files Settings",靜態檔設定
+"Sign Static Files",靜態檔案電子簽名
+"Country Options",國家選項
+"Allow Countries",允許國家
+"Default Country",預設國家
+"European Union Countries",歐洲聯盟國家
+"Top destinations",熱門目的地
+"Locale Options",地區設定選項
+Timezone,時區
+Locale,語言
+"First Day of Week",一周的第一天
+"Weekend Days",週末天
+"Store Name",商店名稱
+"Store Phone Number",商店電話號碼
+"Store Hours of Operation",商店上班時間
+Country,國家
+Region/State,地區／國家
+"ZIP/Postal Code",郵遞區號
+City,城市
+"Street Address",首行地址
+"Street Address Line 2",次行地址
+"VAT Number",增值稅號
+"Single-Store Mode",獨立商店模式
+"Enable Single-Store Mode",啟用獨立商店模式
+"This setting will not be taken into account if system has more than one store view.",如系統有多個店面，此設定將被略過。
+"Mail Sending Settings",郵件發送設定
+"Disable Email Communications",停用電郵通訊
+Host,主機
+"Port (25)",連接埠（25）
+"Set Return-Path",設定返回路徑
+"Return-Path Email",返回路徑電郵
+Admin,管理員
+"Admin User Emails",管理員電郵
+"Forgot Password Email Template",忘記密碼電郵範本
+"Email template chosen based on theme fallback when ""Default"" option is selected.",選擇「預設」後，電郵範本將根據佈景主題順序選擇。
+"Forgot and Reset Email Sender",忘記及重設密碼寄件者
+"Startup Page",起始頁面
+"Admin Base URL",管理面版基礎網址
+"Use Custom Admin URL",使用自訂管理面版網址
+"Custom Admin URL",自訂管理面版網址
+"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","請確保基礎網址是以 '/' 斜線結尾，例如 http://yourdomain/magento/"
+"Use Custom Admin Path",使用自訂管理路徑
+"Custom Admin Path",自訂管理路徑
+"You will have to sign in after you save your custom admin path.",保存您的自定義管理路徑後，您必須重新登錄。
+Security,安全性
+"Recovery Link Expiration Period (hours)",恢復鏈接到期時間（小時）
+"Please enter a number 1 or greater in this field.",請在此欄位中輸入1或更大的數字。
+"Add Secret Key to URLs","將金鑰添加到 Url"
+"Login is Case Sensitive",登錄名是區分大小寫
+"Admin Session Lifetime (seconds)","管理會話存留期 （秒）"
+"Please enter at least 60 and at most 31536000 (one year).","請輸入至最少 60 和 最多 31536000 （一年）。"
+"Enable Charts",啟用圖表
+Web,網頁
+"Url Options","Url 選項"
+"Add Store Code to Urls","將店舖代碼添加到 Url"
+"Auto-redirect to Base URL",自動導向至基礎網址
+"Search Engine Optimization",搜尋引擎優化
+"Use Web Server Rewrites",使用網站伺服器重寫
+"Base URLs",基礎網址
+"Base URL",基礎網址
+"Specify URL or {{base_url}} placeholder.","指定網址或 {{base_url}} 替代字。"
+"Base Link URL",基礎連結網址
+"Base URL for Static View Files",靜態檔案基礎網址
+"May be empty or start with {{unsecure_base_url}} placeholder.","可留空或以 {{unsecure_base_url}} 開始的替代字。"
+"Base URL for User Media Files",媒體檔案基礎網址
+"Base URLs (Secure)",基礎網址（加密）
+"Secure Base URL",加密的基礎網址
+"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","指定網址、{{base_url}} 或 {{unsecure_base_url}} 的替代字。"
+"Secure Base Link URL",加密的基礎連結網址
+"Secure Base URL for Static View Files",加密的靜態檔案基礎網址
+"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","可留空或以 {{secure_base_url}} 或 {{unsecure_base_url}} 開始的替代字。"
+"Secure Base URL for User Media Files",加密的使用者媒體檔案基礎網址
+"Use Secure URLs on Storefront",在店面使用加密網址
+"Use Secure URLs in Admin",在管理面版使用加密網址
+"Enable HTTP Strict Transport Security (HSTS)","啟用 HTTP 強制安全傳輸技術 （HSTS）"
+"Upgrade Insecure Requests",升級非加密的請求
+"Offloader header",缷載器標頭
+"Default Pages",預設頁面
+"Default Web URL",預設網址
+"Default No-route URL",預設無路徑網址
+"Session Validation Settings",登錄環節驗證設定
+"Validate REMOTE_ADDR","驗證 REMOTE_ADDR"
+"Validate HTTP_VIA","驗證 HTTP_VIA"
+"Validate HTTP_X_FORWARDED_FOR","驗證 HTTP_X_FORWARDED_FOR"
+"Validate HTTP_USER_AGENT","驗證 HTTP_USER_AGENT"
+"Cache Type",緩存類型
+Description,描述
+Tags,標籤
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 錯誤</h1><p>找不到頁面。</p>"
+"Community Edition",社區版
+"Default Theme",預設主題
+"Applied Theme",套用的主題
+"Design Rule",設計規則
+Pagination,分頁
+"How many links to display at once.",一次顯示多少連結。
+"Pagination Frame",分頁框架
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",如當前頁數未能包含頂頁／底頁，連結將顯示為當前位置加／減此值。
+"Pagination Frame Skip",跳頁數量
+"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",在分頁功能表的上一個頁連結中，如果替代文字留空，將使用默認的箭頭圖像。
+"Anchor Text for Previous",上頁的連結文字
+"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",在分頁功能表的下一個頁連結中，如果替代文字留空，將使用默認的箭頭圖像。
+"Anchor Text for Next",下一張的錨文本
+"Theme Name",主題名稱
+"System Backup",系統備份
+"Database and Media Backup",資料庫和媒體備份
+"Database Backup",資料庫備份
+"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","可以在Windows系統上使用<a href=""%1"">％2 </a>解壓縮歸檔。"
+"You need more permissions to activate maintenance mode right now.",你現在需要更多的權限來啟動維護模式。
+"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","若要創建備份，請取消選擇""置於維護模式存儲""，或更新您的權限。"
+"Something went wrong while putting your store into maintenance mode.",將商店置於維護模式時出錯。
+"You need more free space to create a backup.",你需要更多的可用空間來創建備份。
+"You need more permissions to create a backup.",你需要更多的權限來創建一個備份。
+"We can't create the backup right now.",我們現在無法建立備份。
+Backups,備份
+Backup,備份
+"We can't delete one or more backups.",我們不能刪除一個或多個備份。
+failed,失敗
+successful,成功。
+"You deleted the selected backup(s).",刪除所選的備份。
+"Can't load snapshot archive",無法載入快照存檔
+"Please correct the password.",請更正密碼。
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",要完成回滾，請取消“將商店置於維護模式”或更新您的權限。
+"We can't find the backup file.",我們找不到備份檔案。
+"We can't connect to the FTP right now.","我們現在無法連接到 FTP。"
+"Failed to validate FTP.","驗證 FTP 失敗。"
+"You need more permissions to perform a rollback.",您需要更多權限才能執行回滾。
+"Failed to rollback.",無法回滾。
+Database,資料庫
+"Database and Media",資料庫和媒體
+"System (excluding Media)","系統 （不含媒體）"
+"You created the system backup.",您創建了系統備份。
+"You created the system backup (excluding media).","你創建了系統備份 （不包括媒體）。"
+"You created the database and media backup.",您創建了資料庫和媒體備份。
+"You created the database backup.",您創建了資料庫備份。
+"Please correct the order of creation for a new backup.",請更正新備份的創建順序。
+"The backup file does not exist.",備份檔案不存在。
+"The backup file path was not specified.",未指定備份文件路徑。
+"The backup file ""%1"" does not exist.","備份檔案""%1""不存在。"
+"Sorry, but we cannot read from or write to backup file ""%1"".","抱歉，我們不能讀取或寫入備份文件""%1""。"
+"The backup file handler was unspecified.",備份文件處理程序未指定。
+"Something went wrong while writing to the backup file ""%1"".",寫入備份文件“%1”時發生錯誤。
+"We can't save the Cron expression.","我們不能儲存 Cron 運算式。"
+"You will lose any data created since the backup was made, including admin users, customers and orders.",您將丟失備份後創建的任何數據，包括管理員用戶，客戶和訂單。
+"Are you sure you want to continue?",你確定要繼續嗎？
+"This may take a few moments.",這可能需要幾分鐘。
+"Be sure your store is in maintenance mode during backup.",在備份期間，請確保您的商店處於維護模式。
+"Backup Name",備份名稱
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","請在此欄位中使用字母 （a 到 z 或 A 到 Z），數位 (0-9) 或空格。"
+"Maintenance mode",維護模式
+"Please put your store into maintenance mode during backup.",請在備份期間將您的商店置於維護模式。
+Exclude,排除
+"Exclude media folder from backup",從備份中排除媒體檔案夾
+"Please enter the password to confirm rollback.",請輸入密碼以確認回滾。
+"This action cannot be undone.",此動作無法復原。
+"User Password",使用者密碼
+"Please put your store into maintenance mode during rollback processing.",請在回滾處理過程中，把您的商店進入維護模式。
+"Use FTP Connection","使用 FTP 連接"
+"FTP credentials","FTP 憑據"
+"FTP Host","FTP 主機"
+"FTP Login","FTP 登錄名"
+"FTP Password","FTP 密碼"
+"Magento root directory","Magento 根目錄"
+"Create Backup",創建備份
+Rollback,還原
+"Enable Scheduled Backup",啟用預設備份
+Frequency,頻率
+"Maintenance Mode",維護模式
+"Are you sure you want to delete the selected backup(s)?",確實要刪除所選的備份嗎？
+Size(bytes),"大小 （bytes)"
+Type,類別
+Download,下載
+"Save and Continue Edit",保存並繼續編輯
+"Default Content",預設內容
+"No Default Content",沒有預設內容
+"Store View Specific Content",商店總覽特定內容
+"Use Default",使用預設值
+"Related Promotions",相關促銷活動
+Rule,規則
+"Start Date",開始日期
+"End Date",結束日期
+Active,激活
+Inactive,閒置
+"Applies To",適用於
+"Specify Types",指定類型
+Position,位置
+"This rule no longer exists.",此規則不再存在。
+"You deleted %1 record(s).","你刪除 %1 記錄。"
+"Please enter a name.",請輸入一個名稱。
+"-- None --","-- 無 --"
+"Rotation Mode",旋轉模式
+"Display all instead of rotating",顯示全部而不是旋轉
+"One at the time, Random",一次，隨機
+"One at the time, Series",一次，系列
+"One at the time, Shuffle",一次，洗牌
+Visibility,可見度
 "Allowed Credit Card Types",允許的信用卡類型
 "Add Rule",新增規則
 "Braintree Settlement Report","Braintree 結算報告"
+"Sorry, but something went wrong",對不起，出了問題。
 "We can't initialize checkout.",我們不能初始化結帳。
 "No authorization transaction to proceed capture.",沒有已授權交易來進行提取。
 "Transaction is successful.",事務成功。
@@ -199,7 +837,6 @@ void,無效
 "Payment method nonce can't be retrieved.",付款方式無法檢索。
 "Wrong transaction status",錯誤的交易狀態
 Authorize,授權
-"--Please Select--",-請選擇-
 "Credit Card",信用卡
 ending,結束
 expires,到期
@@ -210,7 +847,6 @@ expires,到期
 "PayPal Account","PayPal 帳戶"
 "PayPal Logo","PayPal 商標"
 "Credit Card Information",信用卡資訊
-"What is this?",這是什麽？
 "Save for later use.",保存供以後使用。
 "This payment is not available",這筆付款不可用
 "Please try again with another form of payment.",請以其他付款方式再試一次。
@@ -221,7 +857,6 @@ expires,到期
 "Enable PayPal through Braintree","准許 Paypal 透過 Braintree "
 "Vault Enabled",存儲庫已啟用
 "Basic Braintree Settings","基本 Braintree 設置"
-Environment,環境
 "Merchant ID","商戶 ID"
 "Public Key",公開金鑰
 "Private Key",私人金鑰
@@ -229,6 +864,7 @@ Environment,環境
 "Vault Title",金庫標題
 "Merchant Account ID","商戶帳戶 ID"
 "Advanced Fraud Protection",進階的防欺詐保護
+"CVV Verification","CVV 驗證"
 "Country Specific Settings",國家/地區特定設置
 "Country Specific Credit Card Types",國家特定的信用卡類型
 "PayPal through Braintree","Paypal 透過 Braintree "
@@ -245,15 +881,18 @@ Environment,環境
 "Dynamic Descriptors",動態描述項
 Phone,電話
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","應用篩選器以獲得結果。 網格中只會顯示前100條記錄，您將能夠以.csv格式下載完整的報告。"
+Select...,"選擇… "
+"Transaction Type",交易類型
+"Payment Type",付款類型
 "PayPal Payment ID","PayPal 付款編號"
 "Created At",新增於
+"Transaction ID",交易編號
 "Order ID",訂單編號
 Amount,金額
 "Settlement Code",結算代碼
 "Settlement Response Text",結算回應文本
 "Refund Ids","退款 Ids"
 "Settlement Batch ID",結算批次編號
-Currency,貨幣
 Month,月
 Year,"年 "
 "Stored Card",已儲存卡
@@ -301,12 +940,18 @@ exception,例外
 or,或
 "Please confirm that you want to delete this credit card",請確認您要刪除這張信用卡
 "Cardholder Name",持卡人姓名
+"* Required Fields","* 為必填項"
 "Card Verification Number Visual Reference",卡驗證碼視覺參考
 "Make Default",設定為預設
 "Billing Address",賬單地址
+Company,公司
+Address,位址
+State/Province,州/省
 "Please select region, state or province","請選擇地區、 州或省"
+"Zip/Postal Code",郵政編碼
 "Add Credit Card",新增信用卡
 "Card Number",卡號
+"Is Default",是預設
 "Paypal account","PayPal 帳戶"
 "Coinbase account","Coinbase 帳戶"
 "Europe bank account",歐洲銀行帳戶
@@ -329,509 +974,20 @@ Unrecognized,無法識別
 "Settlement confirmed",結算確認
 Sale,促銷
 Credit,積分
-"Add Tax",新增稅項
-"Delete Tax",刪除稅項
-"All Websites",所有網站
-Tax,稅金
-"Excl. Tax",不含稅
-"Incl. Tax",含稅
-"Credit card type",信用卡類型
-"CVV result","CVV 結果"
-Error,"錯誤 "
-"UPS Next Day Air","UPS 次日空運送到"
-"UPS Worldwide Express","UPS 全球速遞"
-Password,密碼
-"Thanks for contacting us with your comments and questions. We'll respond to you very soon.",謝謝您和我們聯繫及您的評論和提問。我們很快就會回覆您。
-"Email template chosen based on theme fallback when ""Default"" option is selected.",選擇「預設」後，電郵範本將根據佈景主題順序選擇。
-"We can't process your request right now. Sorry, that's all we know.",我們現在無法處理您的請求。對不起，那是我們都知道。
-"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 類並不實現 \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface"
-"New Permission",新權限
-"Yes, for Everyone",是，給每個人
-"Yes, for Specified Customer Groups",是，給指定的客戶群。
-"-- Please Select --","-- 請選擇 --"
-Enable,啟用
-"Customer Groups",客戶群組
-"Magento Admin Panel","Magento 管理面板"
-Scope,範圍
-"Please confirm scope switching. All data that hasn't been saved will be lost.",請確認範圍切換。所有未保存的資料將都會丟失。
-General,一般
-"Start Time",開始時間
-Description,描述
-"Preview Update",預覽更新
-Thumbnail,縮圖
-"Attribute Set",屬性集
-"Please correct the data sent.",請更正發送的資料。
-"Entity type model '%1' is not found","找不到實體類型模型 '%1'"
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","實體類型必須屬於 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType 裡的其中一個類型"
-"There are no product types available for export",無產品類型可輸出
-"ProductSku should be specified",應指定產品Sku
-"Attribute ""%1"" is required.","必須有 ""%1"" 屬性"
-Disabled,停用
-"Unable to save product",無法保存產品
-"The image cannot be removed as it has been assigned to the other image role",圖像無法被刪除，因為它已被分配給其他圖像角色
-"Could not delete Prices",不能刪除價格
-Design,設計
-"Store View:",店面：
-"Stores Configuration",商店設置
-"End Date",結束日期
-"Category Name",類別名稱
-Content,內容
-"Category Image",圖像類別
-"Add CMS Block","添加CMS 模塊"
-"Display Settings",顯示設定
-"Search Engine Optimization",搜尋引擎優化
-Images,圖片
-Products,產品
-Categories,分類
-Visibility,可見度
-Websites,網站
-"Storefront Properties",店面的屬性
-"Design Theme",設計主題
-name,名稱
-All,全部
-"Display a Link to Loading a Spreadsheet",顯示一個載入試算表的連結
-"Link Text",連結文字
-"The text of the link to the My Account &gt; Order by SKU page","到我的帳戶的連結顯示的文字內容 &gt; 依照SKU排序的頁面"
-"Load a list of SKUs","加载 SKU 的列表"
-Conditions,條件
-"What’s new with Magento 2.2.4","Magento 2.2.4 的新內容"
-"Trusted Payment Options","已信任的 Payment 選項"
-"1 Day Freight","1 天貨運"
-Copy,複製
-Home,首頁
-"Go to Home Page",回到首頁
-Default,預設
-Ordered,已訂購
-Root,根
-"All Store Views",所有店面
-"Are you sure?",是否確認?
-N/A,"不適用 "
-"A total of %1 record(s) have been deleted.","共有 %1 條記錄已被刪除。"
-Loading...,載入中...
-Orders,訂單
-Shipping,物流
-Configure,設定
-"Shopping Cart",購物車
-"Wish List",願望清單
-Any,任何
-Subtotal,小計
-Discount,折扣
-"Grand Total",總計
-"Quote item id is not received.",報價項目的ID還没有收到。
-"Quote item is not loaded.",報價的項目没有上架。
-"We can't find this wish list.",我們找不到這個願望清單。
-Guest,訪客
-Refunded,已退款
-Canceled,已取消
-Shipped,已寄送
-Invoiced,已開票
-Order,訂單
-Customer,客戶
-"Apply Coupon Code",輸入優惠券代碼
-"Remove Coupon Code",刪除優惠券代碼
-"Row Subtotal","行 小計"
-"No ordered items",沒有訂購項目
-"Total %1 product(s)","總數 %1 產品"
-Subtotal:,小計:
-"Tier Pricing",第層定價
-"Please select",請選擇
-"Move to Wish List",移動到願望清單
-Refresh,重新整理
-Item,項目
-"Discount Amount",折扣金額
-"Row Total",總行數
-"Gift Message",禮物信息
-From:,從：
-To:,"至： "
-Message:,"訊息： "
-Items,項目
-"View Order",查看訂單
-"Print Order",列印訂單
-"Qty Invoiced",已開發票數量
-"Qty Shipped",已出貨數量
-"Add Products",新增商品
-Dashboard,總覽
-"Something went wrong",出現錯誤
-"Invalid Form Key. Please refresh the page.",無效表單金鑰，請刷新頁面。
-"Requested product doesn't exist",要求的產品並不存在
-"Hide from Product Page",從產品頁面隱藏該產品
-"Delete image",刪除圖片
-Hidden,隐藏
-"Image Size",圖像大小
-"Image Resolution",圖像分辨率
-"Images and Videos",圖片和影片
-"Click here or drag and drop to add images.",請按一下此處或拖放加入圖像。
-"Private Sales",私人銷售
-"Not you?",不是你嗎？
-"Welcome, %1!","歡迎您，%1 ！"
-"What's this?",這是什麼？
-Wishlist,願望清單
-"My Wish Lists",我的願望清單
-"1 item in wish list","願望清單有 1 個項目"
-"%1 items in wish list","願望清單有 %1 個項目"
-"Copy to Wish List",複製到願望清單
-"Select all",全部選取
-"Move Selected to Wish List",移動選定項目至願望清單
-"Copy Selected to Wish List",複製選定項目至願望清單
-Added,已添加
-"Add to Wish List",添加至願望清單
-"Encryption Key",加密金鑰
-Region/State,地區／國家
-"Shipping Price",運費
-"Export CSV","匯出 CSV"
-Import,匯入
-"Base URL",基礎網址
-"Secure Base URL",加密的基礎網址
-Web,網頁
-test,測試
-Availability:,庫存:
-"Out of stock",缺貨
-"Sender Name",寄件者名稱
-"Sender Email",寄件者電郵
-"Bundle Items",捆綁項目
-Store,商店
-"The information in this tab has been changed.",此選項卡中的資訊已更改。
-"Remove All",全部刪除
-"Proceed to Checkout",結帳
-"Remove item",刪除項目
-"%fieldName is a required field.","%fieldName 是必填的欄位。"
-"Use Default",使用預設值
-Disable,停用
-Configuration,配置
-"We can't save the Cron expression.","我們不能儲存 Cron 運算式。"
-"Store View",店面
-Stores,商店
-"Allow everything",允許一切
-"Magento Admin","Magento 管理員"
-"Manage Stores",管理商店
-Dynamic,動態
-"We couldn't logout because of an error.",由於發生錯誤，我們不能登出。
-"Read Product Price",查閱產品價格
-"Minimum order amount is %1",最小數量是1%
-"Unable to save address. Please, check input data.",無法儲存地址。請檢查輸入資料
-"See price before order confirmation.",確認訂單前請確認價格。
-"Click for price",點擊看價格
-"All Stores",所有商店
-"General Settings",一般設定
-Fixed,已修復
-"Expand All",全部展開
-Catalog,目錄
-"Add Price",添加價格
-"Message has been rejected: %1","被拒絕的信息︰ %1"
-"Current User Identity Verification",當前使用者身份驗證
-"Your Password",您的密碼
-"You did not sign in correctly or your account is temporarily disabled.",登錄錯誤或帳戶已暫時停用。
-"You have entered an invalid password for current user.",您為現使用者輸入的密碼無效。
-"The SKU was not found in the catalog.","在目錄中找不到該商品的 SKU。"
-"We can't initialize the import model.",我們不能初始化導入模型。
-"Please correct the input data for %1 => %2 rate","請更正為 %1 => %2 率輸入的資料"
-Results,結果
-Grid,格狀
-List,列表
-Category,類別
-"We can't find any items matching these search criteria.",我們找不到任何這些搜尋條件匹配的項目。
-"Bucket do not exists",桶並不存在
-"Modify your search",修改您的搜索
-"Use All Available Attributes",使用所有可用的屬性
-Position,位置
-"Add Subcategory",添加子類別
-"Add Root Category",添加根類別
-Day,日
-"<label class=""label""><span>from</span></label>","<label class=""label""> <span>從</span></label>"
-"<label class=""label""><span>to</span></label>","<label class=""label""> <span>到</span></label>"
-"WYSIWYG Editor",所見即所得編輯器
-"Add Product",新增商品
-"Product Attributes",產品屬性
-"Add New Attribute",添加新的屬性
-"Save Attribute",保存屬性
-"Save in New Attribute Set",保存在新屬性集中
-"Enter Name for New Attribute Set",輸入新屬性集的名稱
-"Edit Product Attribute ""%1""","編輯""%1""的產品屬性"
-"New Product Attribute",新的產品屬性
-"Advanced Attribute Properties",進階屬性
-"Add to Column Options",添加到列選項
-"Select ""Yes"" to add this attribute to the list of column options in the product grid.",選擇“是”將此屬性添加到產品網格中的列選項清單。
-"Use in Filter Options",使用篩選器選項
-"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","選擇""是""將此屬性添加到產品網格中的篩選器選項清單中。"
-Global,全球
-"Use in Search",在搜索中的使用
-"Visible in Advanced Search",可見於進階搜尋中
-"Comparable on Storefront",在店面上可以比較
-"Use for Promo Rule Conditions",可以作為促銷條件之一
-"Enable WYSIWYG",啟用WYSIWYG
-"Allow HTML Tags on Storefront","在店面上允許使用 HTML 標籤"
-"Depends on design theme.",取決於設計主題。
-"Used for Sorting in Product Listing",用於排序產品的列表
-"Media Image",媒體形像
-Gallery,圖庫
-"System Properties",系統屬性
-"Data Type for Saving in Database",在數據庫中保存的數據類型
-Static,靜態
-Datetime,日期時間
-Decimal,小數點
-Integer,整數
-"Attribute Information",屬性信息
-Properties,屬性
-Visible,可見
-"Web Site",網站
-"Delete Selected Group",刪除選定的群組
-"You are about to delete all products in this attribute set. Are you sure you want to do that?",您將刪除此屬性中的所有產品。你確定要這麼做嗎？
-Empty,空白
-"Add New Group",添加新的群組
-"Add Group",添加群組
-"Based On",根據
-"New Product",新產品
-"Save & Edit",保存與編輯
-"Save & New",保存與新增
-"Save & Duplicate",保存與複製
-"Save & Close",保存和關閉
-Change,"更改 "
-"Products Information",產品資訊
-"Create Category",新建類別
-"Parent Category",主要類別
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","如果沒有自訂主類別，請使用預設的主類別。您可以在任何時候重新分配類別 <a href=""%1""target=""_blank""> 產品 > 類別</a>。"
-"Price Alert Subscriptions",價格提示訂閱
-"Stock Alert Subscriptions",庫存提示訂閱
-"There are no customers for this alert.",這個提示沒有客戶。
-"Subscribe Date",訂閱日期
-"Last Notified",最後通知
-"Send Count",發送計數
-"Import Options",匯入選項
-"Add New Row",添加新行
-"Delete Row",刪除整行
-"Default Price",預設價格
-"ALL GROUPS",所有群組
-"Default Values",預設值
-"Related Products",相關產品
-Up-sells,向上銷售
-Cross-sells,交叉銷售
-"Size for %1"," %1 的大小"
-"Watermark File for %1","%1 的浮水印檔"
-"Position of Watermark for %1","%1 的浮水印的位置"
-"Name in %1","在 %1 的名字"
-"Change Status",更改狀態
-"Images (.gif, .jpg, .png)",圖片（.gif、.jpg、.png）
-"Add New Images",添加新圖片
-"Inc. Tax",含稅
-"Does this have a weight?",是否包含重量
-"Notify Low Stock RSS",RSS低庫存通知
-"Low Stock Products",低庫存商品
-"%1 has reached a quantity of %2.","%1 的庫存量已達 %2"
-"Subscribe to RSS Feed",訂閱RSS
-"Products Comparison List",商品比較表
-AM,上午
-PM,下午
-"New Products from %1","%1 的新商品"
-"New Products",新商品
-"%1 - Special Products","%1 - 特殊商品"
-"Special Expires On: %1","特價將於 %1 截止"
-"Price: %1","價格: %1"
-"Special Price: %1","特價: %1"
-"Special Products",特殊商品
-"Manage Catalog Categories",型錄分類管理
-"Manage Categories",分類管理
-"You deleted the category.",已刪除該分類
-"Something went wrong while trying to delete the category.",刪除該分類時出現錯誤
-"Category is not available for requested store.",該商店無法使用此項分類
-"There was a category move error.",分類移動錯誤
-"You moved the category.",已移動該分類
-"You saved the category.",分類已儲存
-"Something went wrong while saving the category.",儲存分類時發生錯誤
-"Please select products for attributes update.",請選擇商品以更新屬性
-"Please make sure to define SKU values for all processed products.","請確保已為所有產品定義 SKU 值。"
-"Something went wrong while updating the product(s) attributes.",在更新產品的属性時，系统出錯。
-"Unable to add attribute",無法添加該物品的屬性
-"Please, specify attributes",請填寫該物品的屬性
-"You deleted the product attribute.",你刪除了產品屬性。
-"This attribute cannot be edited.",不能編輯此屬性。
-"Edit Product Attribute",編輯產品屬性
-"Something went wrong while saving the attribute.",保存該屬性時出錯。
-"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","屬性代碼""%1""是不正確。請使用字母 (a-z)，數位 (0-9) 或底線(_)，而且第一個字元應該是字母。"
-"You saved the product attribute.",你保存了產品屬性。
-"An attribute with this code already exists.",這段代碼的屬性已經存在。
-"An attribute with the same code (%1) already exists.","具有相同代碼 (%1) 的屬性已經存在。"
-"The value of Admin must be unique.",管理員的值必須是唯一的。
-"You duplicated the product.",你複製了產品。
-"This product doesn't exist.",此產品不存在。
-"Invalid product id. Should be numeric value greater than 0","不正確產品 id。數位值應該大於 0"
-"A group with the same name already exists.",具有相同名稱的組已存在。
-"Something went wrong while saving this group.",保存該組時出了錯。
-"A total of %1 record(s) have been updated.","共有 %1 條記錄已更新。"
-"Something went wrong while updating the product(s) status.",更新產品狀態時出了錯。
-"You saved the product.",你保存了產品。
-"SKU for product %1 has been changed to %2.","產品 %1 的產品編號已改為 %2。"
-"New Attribute Set",新屬性集
-"The attribute set has been removed.",屬性集已刪除。
-"New Set",新集
-"Manage Product Sets",管理產品集
-"Manage Attribute Sets",管理屬性集
-"This attribute set no longer exists.",此屬性設置不再存在。
-"You saved the attribute set.",你保存了屬性集。
-"Something went wrong while saving the attribute set.",保存該屬性時出錯。
-"You added product %1 to the comparison list.","你添加產品 %1 到比較清單中。"
-"You cleared the comparison list.",你清除了比較清單。
-"Something went wrong  clearing the comparison list.",清除比較清單時出錯
-"You removed product %1 from the comparison list.","您從比較清單中刪除產品 %1。"
-"1 item",1個項目
-"%1 items","%1 項目"
-"Are you sure you want to remove this item from your Compare Products list?",你確定你要從你的比較產品清單中刪除此項目？
-"Are you sure you want to remove all items from your Compare Products list?",你確定你要從你的比較產品清單中刪除此所有項目？
-"Invalid attribute %1","無效的屬性 %1"
-"Bad controller interface for showing product",壞的控制器界面來顯示產品
-"Product is not loaded",產品未載入
-"Make sure the To Date is later than or the same as the From Date.",確保結束日期必需晚於或等於出發日期。
-"Something went wrong while getting the image url.",獲得圖像URL時出錯。
-"Can't delete root category.",不能刪除根類別。
-"The value of attribute ""%1"" must be unique.","""%1""屬性的值必須是唯一的。"
-"No layout updates",沒有佈局更新
-"Products only",僅產品
-"Could not save product ""%1"" with position %2 to category %3","無法保存產品""%1""與位置 %2 到類別 %3"
-Percent,%
-Center,中心
-"Something went wrong while saving the file(s).",在储存文件夹時，系统出錯。
-"We can't rebuild the index for an undefined product.",我們不能為未定義的產品重建索引。
-"The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","“平面目錄模塊” 有著 %2$d 的限制並擁有可排序的屬性。目前的屬性為 %1$d 。請減少可排序屬性的數量才能使用該產品。"
-"Unsupported product type ""%1"".","不受支持的產品類型""%1""。"
-"Please correct the category.",請更正該類別。
-"Must be category model instance or its id.","必須是模型類別或其 id。"
-"The attribute model is not defined.",模型的屬性未定義。
-"Clear Price",明確價格
-"We couldn't copy file %1. Please delete media with non-existing images and try again.",我們不能複製檔案%1。請刪除媒體與不存在的圖片然後重試。
-"The image content is not valid.",圖像內容是無效的。
-"Cannot save product.",無法保存產品。
-"There is no image with provided ID.","你提供 id的沒有圖像。"
-"Such product doesn't exist",這種產品並不存在
-"Such image doesn't exist",這種圖像並不存在
-"The image does not exist.",圖像不存在
-"Please correct the image file type.",請更正圖像文件類型。
-"We couldn't move this file: %1.",我們不能移動這個檔案：%1。
-"The image could not be resized: ","無法調整圖像大小: "
-"Some images could not be resized. See log file for details.","某些圖像無法調整大小。有關詳細資訊, 請參閱日誌檔。"
-"Please specify product's required option(s).",請指定產品必需的選項。
-"File '%1' is not an image.","檔案 '%1' 不是圖片。"
-"The text is too long.",文本太長。
-"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","我們發現有一個網站與我們的極為相似，打比方，層價格、 客戶組和數量： 客戶組 = %customerGroup，網站 ID = %websiteid，數量 = %qty。行 ID: SKU = %SKU，網站 ID: %websiteid，客戶群： %customerGroup，數量： %qty。"
-"Please provide valid data",請提供有效的的數據
-"The file upload failed.",上載文件夾失敗
-"Catalog, Search",目錄，搜索
-"Attribute '%1' is locked. %2","屬性 '%1' 被鎖定。%2"
-"As low as",低至
-"Some text is here.",需要填入一些文字。
-"Add Option",新增選項
-"New Option",新的選項
-"Option Title",選項標題
-"Price Type",價格類型
-"Add Selected Products",添加所選的產品
-"This operation can take a long time",此操作可能需要很長時間
-Groups,組合
-"Sorry, we're unable to complete this request.",對不起，我們無法完成這個請求。
-"We can't save custom-defined options for bundles with dynamic pricing.",我們無法在自定義選項中保存具有動態定價的捆綁包。
-"Mass Actions",大規模的操作
-"Unselect All",全部取消選擇
-"Select Visible",選擇可見
-"Unselect Visible",取消選擇可見
-"Special Price",特價
-"Regular Price",原價
-"Buy %1 for: ","購買 %1: "
-"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","每個購買 %2 附送 %1並且<strong class =“benefit”>保存<span class =“percent tier-<span class=""percent tier-%3"">&nbsp;%4 </span>％</strong>"
-"Print This Page",打印此頁
-"Remove Product",刪除该商品
-"In stock",有貨
-Compare,比較
-Prev,上一頁
-"We can't find products matching the selection.",我們找不到匹配的產品。
-"Learn More",詳細內容
-"Add to Compare",加入比較
-"We found other products you might like!",以下是你可能喜歡的產品！
-"More Choices:",更多的選擇：
-"select all",全選
-"Items %1-%2 of %3","專案 %3 的 %1－%2"
-"%1 Item","%1 物品"
-"%1 Items","%1 物品"
-Show,顯示
-Availability,庫存
-"This value does not follow the specified format (for example, 200x300).","不符合指定的格式標準 (例如，200 x 300)。"
-"Please select items.",請選擇項目。
-"Image Detail",相片詳情
-Adding...,添加中。。。
-"unselect all",全部取消選擇
-Inventory,庫存
-Small,小
-"Custom image",自訂圖片
-"Use {{name}} and {{description}} as Product Name and Product Description placeholders","使用{{name}} 和{{description}} 作為產品名稱和產品描述內容"
-"Recently Viewed/Compared Products",最近查看的產品/正在比較中的產品
-"Products per Page on Grid Allowed Values",這個網頁允許的產品展示數量
-"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","是否在‘每頁顯示X頁’ 下顯示“全部”選項"
-"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",這僅適用於產品目錄和類別頁面。媒體內容將作為“靜態URL”插入編輯器中。如果系統的基本URL更改，媒體內容將不會更新。
-"All products",全部產品
-"New products",新產品
-"New Products Images and Names Template",新產品的圖片和名稱範本
-"New Products Names Only Template",新產品名稱範本
-"New Products Images Only Template",新產品圖片範本
-Image,圖像
-"Add to Wishlist",加入願望清單中
-Overview,概覽
-Details,詳細資料
-"Learn more",了解更多
-"Save Category",儲存類別
-"Delete Category",刪除類別
-"New Subcategory",新子類別
-"New Root Category",新根類別
-"Set Root Category for Store",設定商店的根類別
-"Custom Design",自訂設計
-"Category Data",分類資料
-"Depends on design theme",取決於設計主題
-"We saved the stock notification.",我們儲存了庫存的通知。
-"There was a category move error. %1","分類移動錯誤: %1"
-"This product no longer exists.",此產品不再存在。
-"We can't find the image file.",我們找不到該圖片檔案。
-"Could not save product option",無法保存產品選項
-"Product option with id %1 does not exist","與 id %1 的產品選項不存在"
-"Are you sure you want to delete this category?",是否確實要刪除此類別？
-"Watermark Default Size",浮水印預設大小
-"Watermark Opacity, Percent",浮水印不透明度百分比
-Watermark,浮水印
-"Watermark Position",浮水印位置
-"This value does not follow the specified format (for example, 200X300).",此數值不符合指定的格式（例如，200X300）。
-Advanced,進階
-"Add New Rule",添加新規則
-"New Rule",新規則
-"Edit Rule",編輯規則
-Daily,每天
-Frequency,頻率
-Rule,規則
-"Send to Google",發送給Google
-"We can't find the product.",找不到產品
-"RPC call failed, connection timed out after %time_out.","RPC 調用失敗，連接 %time_out 後逾時。"
-"Error while checking if topic is synchronous",檢查主題是否同步時出錯
-Filename,檔案名稱
-Always,一律
-Weekly,每週
-Monthly,每月
-"Zip/Post Code",郵政編碼
-"Are you sure you want to do this?",你確定你想要這樣做？
-"Delete Rule",刪除規則
-"This rule no longer exists.",此規則不再存在。
-"Default Country",預設國家
 "Percent Discount",折扣率
 "-- Select --",-請選擇-
+Dynamic,動態
+Fixed,已修復
 "Create New Option",創建新的選項
+"Bundle Items",捆綁項目
 "Add Products to Option",添加產品到選項
+"Delete Option",刪除選項
 "What are you looking for?",你在找什麼？
+"Use Default Value",使用預設值
 "There is no defined renderer for ""%1"" option type.","找不到 ""%1"" 選項的渲染器"
-"Only implemented for bundle product",僅用於捆綁產品
-"Product with specified sku: ""%1"" is not a bundle product","含有最小庫存單位的商品 ""%1"" 非綑綁商品"
-"Bundle product could not contain another composite product",捆綁產品不能包含另一個複合產品
-"Id field of product link is required","產品連結的 id 欄位是必需的"
-"Can not find product link with id ""%1""","找不到 id 為""%1""產品連結"
 "Could not save child: ""%1""","無法儲存子項 ""%1"""
 "Product with specified sku: ""%1"" does not contain option: ""%2""","產品與指定商品編號:""%1""不包含選項:""%2"""
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","含有最小庫存單位的子項 ""%1"" 已經分配予產品 ""%2"""
-"Product with specified sku: %1 is not a bundle product","產品與指定商品編號: %1 不是捆綁產品"
-"Requested bundle option product doesn't exist",請求的產品包選項不存在
-"Requested option doesn't exist",請求的選項不存在
-"Cannot delete option with id %1","無法刪除ID: %1 的選項"
-"Could not save option",不能保存選項
 "Price Range",價格範圍
 "As Low as",低至
 Together,一起
@@ -840,397 +996,59 @@ Separately,分開
 "The options you selected are not available.",您選擇的選項不可用。
 "The required options you selected are not available.",您選擇的必要選項不可用。
 "Please select all required options.",請選擇所有必要的選項。
+"We can't add this item to your shopping cart right now.",現在無法新增至購物車
+N/A,"不適用 "
+Percent,%
+"We can't save custom-defined options for bundles with dynamic pricing.",我們無法在自定義選項中保存具有動態定價的捆綁包。
+"Add Selected Products",添加所選的產品
+"Add Option",新增選項
+"New Option",新的選項
+"Option Title",選項標題
 "Default Title",預設標題
 "Store View Title",商店總覽標題
+"Input Type",輸入類型
 Drop-down,下拉
 "Radio Buttons",單選按鈕
 Checkbox,選取方塊
+"Multiple Select",選擇多個
+Required,必要
 "Default Quantity",預設數量
 "User Defined",使用者定義
+"Price Type",價格類型
+Quantity:,數量︰
 "Choose a selection...",選擇一個選項。
 "Ship Bundle Items",寄送捆綁項目
 "There are no products in this option.",在此選項中沒有產品。
+Default,預設
+Ordered,已訂購
+Invoiced,已開票
+Shipped,已寄送
+Refunded,已退款
+Canceled,已取消
+"Regular Price",原價
+"As low as",低至
 "Buy %1 with %2 discount each","每買 %1 有%2 折扣"
 "Go back to product details",返回到產品詳細資訊
 "Customize and Add to Cart",自訂並添加到購物車
 "Your Customization",您的自訂
+Availability,庫存
+"In stock",有貨
+"Out of stock",缺貨
+Availability:,庫存:
 "Customize %1","自訂 %1"
 "No options of this product are available.",沒有這種產品可用的選項。
+"Gift Message",禮物信息
+From:,從：
+To:,"至： "
+Message:,"訊息： "
+"Product Name",產品名稱
+"Discount Amount",折扣金額
+"Row Total",總行數
+"Qty Invoiced",已開發票數量
+"Qty Shipped",已出貨數量
 "Add Products to New Option",將產品添加到新的選項
 "Add Products to Option ""%1""","將產品添加到""%1""選項"
-"User Name",使用者名稱
-"User Email",使用者電郵
-"New Password",新密碼
-"Password Confirmation",密碼確認
-"Interface Locale",介面地區設定
-password,密碼
-"You need more permissions to access this.",你需要更多的權限以存取此項。
-Username,帳號
-"You entered an invalid Secret Key. Please refresh the page.",輸入的金鑰不正確，請刷新此頁面。
-"Cache Storage Management",緩存記憶管理
-"Flush Magento Cache",清空Magento緩存
-"The cache storage may contain additional data. Are you sure that you want to flush it?",緩存記憶可能包含其他資料，確定清空？
-"Flush Cache Storage",清空緩存記憶
-Invalidated,無效
-Amounts,金額
-Bestsellers,暢銷產品
-"Most Viewed Products",最受歡迎的產品
-"New Customers",新客戶
-"Lifetime Sales",累計銷售
-"Average Order",平均訂單量
-Average,平均值
-Views,點擊率
-Revenue,收入
-"Media (.avi, .flv, .swf)",媒體（.avi、.flv，.swf）
-"All Files",所有檔案
-"Reset to Default",重設為預設值
-"Save Account",儲存帳戶
-"Save Cache Settings",儲存緩存設定
-"Catalog Rewrites",目錄重寫
-"Images Cache",圖片緩存
-Clear,清除
-"Search Index",搜尋索引
-Rebuild,重建
-"Inventory Stock Status",庫存狀態
-"Rebuild Catalog Index",重建產品索引
-"Rebuild Flat Catalog Category",重建平面類別
-"Rebuild Flat Catalog Product",重建平面產品
-"Cache Control",緩存控制
-"All Cache",所有緩存
-"No change",沒有變更
-"Add Design Change",新增設計修正
-"Edit Design Change",編輯設計修正
-"New Store Design Change",新店設計修正
-"Date From",從日期
-"Date To",到日期
-"Design Change",設計修正
-"Delete %1 '%2'","刪除 %1 '%2'"
-"Delete %1","刪除 %1"
-"Block Information",區塊資訊
-"Backup Options",備份選項
-"Create DB Backup",創建資料庫備份
-"Delete Store",刪除商店
-"Delete Web Site",刪除網站
-"Save Web Site",儲存網站
-"Save Store",儲存商店
-"Save Store View",儲存店面
-"Delete Store View",刪除店面
-"Edit Web Site",編輯網站
-"New Web Site",新增網站
-"Edit Store",編輯商店
-"New Store",新增商店
-"Edit Store View",編輯店面
-"New Store View",新增店面
-"Store Information",商店資訊
-"Root Category",根類別
-"Default Store View",預設店面
-"Store View Information",店面資訊
-"Web Site Information",網站資訊
-"Default Store",預設商店
-"Set as Default",設為預設
-"Create Website",創建網站
-"Create Store",創建商店
-"Create Store View",創建店面
-"Add New Image",新增圖片
-"Export block for grid %1 is not defined","未定義網格 %1 的匯出區塊"
-"Reset Filter",重設篩選
-"All Countries",所有國家
-"Date selector",選擇日期
-"[ deleted ]",[已刪除]
-"Invalid export type supplied for grid export block",網格匯出區塊指定了無效的匯出類型
-"Please correct the column format and try again.",請更正欄位格式然後再試。
-"Unknown block type",未知的區塊類型
-"Please correct the tab configuration and try again. Tab Id should be not empty",請更正分頁配置然後重試，分頁編號不能為空。
-"Please correct the tab configuration and try again.",請更正分頁配置然後重試。
-"You have logged out.",您已登出。
-"Specified cache type(s) don't exist: %1",指定緩存類型不存在︰%1
-"The image cache was cleaned.",已清空圖像緩存。
-"An error occurred while clearing the image cache.",清空圖像緩存時出錯。
-"The JavaScript/CSS cache has been cleaned.",已清理JavaScript/CSS緩存。
-"An error occurred while clearing the JavaScript/CSS cache.",清理JavaScript/CSS緩存時出錯。
-"The static files cache has been cleaned.",已清理靜態檔緩存。
-"You flushed the cache storage.",你已清空緩存記憶。
-"The Magento cache storage has been flushed.",已清空Magento緩存記憶。
-"Cache Management",緩存管理
-"You can't change status of cache type(s) in production mode",在生產環境中不能更改緩存類型
-"%1 cache type(s) disabled.","%1 種緩存類型已被停用。"
-"An error occurred while disabling cache.",停用緩存時出錯。
-"%1 cache type(s) enabled.","已啟用 %1 個緩存類型。"
-"An error occurred while enabling cache.",啟用緩存時出錯。
-"%1 cache type(s) refreshed.","已刷新 %1 個緩存類型。"
-"An error occurred while refreshing cache.",刷新緩存時出錯。
-"We updated lifetime statistic.",我們更新了壽命統計。
-"We can't refresh lifetime statistics.",我們不能更新終生統計。
-"invalid request",無效的請求
-"see error log for details",詳請參閱錯誤日誌
-"Service unavailable: %1","服務不可用︰ %1"
-"Access Denied.",存取被拒。
-"You need more permissions to do this.",你需要更多的權限權來執行此操作。
-"No search modules were registered",沒有註冊搜索模塊
-"Please make sure that all global admin search modules are installed and activated.",請確保所有的全域管理員搜索模組已安裝並啟動。
-"You saved the account.",你已儲存此帳戶。
-"An error occurred while saving account.",儲存帳戶時出錯。
-"You deleted the design change.",你已刪除此設計編輯。
-"You can't delete the design change.",您不能刪除此設計編輯。
-"Store Design",商店設計
-"Edit Store Design Change",儲存商店設計編輯
-"You saved the design change.",你已儲存設計編輯。
-"The database was backed up.",資料庫已備份。
-"We can't create a backup right now. Please try again later.",我們現在不能建立一個備份。請稍後再試。
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","刪除%1並不會刪除與%1相關聯的信息（例如類別，產品等），但%1將無法恢復。 建議您在刪除%1之前創建資料庫備份。"
-"Something went wrong. Please try again.",出了錯。請再試一次。
-"This store cannot be deleted.",不能刪除此商店。
-"You deleted the store.",你已刪除此商店。
-"Unable to delete the store. Please try again later.",無法刪除商店，請稍後再試。
-"This store view cannot be deleted.",不能刪除此店面。
-"You deleted the store view.",你已刪除此店面。
-"Unable to delete the store view. Please try again later.",無法刪除店面，請稍後再試。
-"This website cannot be deleted.",不能刪除此網站。
-"You deleted the website.",你已刪除此網站。
-"Unable to delete the website. Please try again later.",無法刪除網站，請稍後再試。
-"The website does not exist.",網站不存在。
-"Before modifying the website code please make sure it is not used in index.php.","修改網站代碼前請確保它不用在 index.php 中。"
-"The store does not exist",商店不存在
-"Store view doesn't exist",店面不存在
-"Before modifying the store view code please make sure it is not used in index.php.","修改店面代碼前請確保它不用在 index.php 中。"
-"New ","新增 "
-"You saved the website.",你已儲存網站。
-"The default store cannot be disabled",預設商店不能被停用
-"You saved the store view.",您已儲存店面。
-"An inactive store view cannot be saved as default store view",處於非活動狀態店面不能保存為預設店面
-"You saved the store.",你已儲存了商店。
-"Something went wrong while saving. Please review the error log.",儲存時出錯，請查看錯誤日誌。
-"Last 24 Hours","最近 24 小時"
-"Last 7 Days","最近 7 天"
-"Current Month",這個月
-YTD,本年度
-2YTD,兩年度
-"Authentication storage is incorrect.",不正確的認證記憶。
-"Authentication error occurred.",認證發生錯誤。
-"Admin session lifetime must be less than or equal to 31536000 seconds (one year)",管理員登錄有效時限必須等於或少於31536000秒（一年）
-"Admin session lifetime must be greater than or equal to 60 seconds",管理員登錄有效時限必須等於或多於60秒
-"Order #%1","訂單 #%1"
-"Welcome, please sign in",歡迎光臨，請先登錄
-"user name",使用者名稱
-"Sign in",登入
-"Select Range:",選擇範圍︰
-"No Data Found",找不到資料
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","圖表已停用。若要啟用圖表，請按 <a href=""%1"">這裡</a>。"
-"Last Orders",最新訂單
-"Last Search Terms",最新搜尋
-"Top Search Terms",熱門搜尋
-"There are no search keywords.",沒有搜尋關鍵字。
-"View Statistics For:",查看統計資料︰
-"Reload Data",重新載入資料
-"Browse Files...",瀏覽檔案⋯
-"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","版權所有 &copy; %1 Magento Commerce Inc. 保留所有權利。"
-"ver. %1","版本 %1"
-"Account Setting",帳戶設定
-"Customer View",客戶介面
-"Sign Out",登出
-"About the calendar",關於日曆
-"Go Today",今天去
-Time,時間
-Hour,小時
-Minute,分
-"JavaScript may be disabled in your browser.","您的瀏覽器可能已停用 JavaScript。"
-"To use this website you must first enable JavaScript in your browser.","要使用本網站必須首先在您的瀏覽器啟用 JavaScript。"
-"This is only a demo store. You can browse and place orders, but nothing will be processed.",這是只是一個演示的商店。您可以瀏覽並下訂單，但將不被處理。
-"Additional Cache Management",額外的緩存管理
-"Flush Catalog Images Cache",清空產品圖片緩存
-"Pregenerated product images files",預先生成的產品圖片
-"Flush JavaScript/CSS Cache","清空 JavaScript/CSS 緩存"
-"Themes JavaScript and CSS files combined to one file","主題 JavaScript 和 CSS 檔合併到一個檔案。"
-"Flush Static Files Cache",沖洗靜態檔案快取
-"Preprocessed view files and static files",預先處理的視圖檔和靜態檔
-JavaScript/CSS,"JavaScript 和 CSS"
-"JavaScript/CSS Cache","JavaScript 和 CSS 緩存"
-"No records found.",找不到記錄。
-"Big Image",大圖像
-"Additional Settings",附加設置
-"Previous page",上一頁
-"of %1",%1的
-"Next page",下一頁
-"Export to:","匯出至 "
-"We could not detect a size.",我們無法檢測到大小。
-"Global Search",全域搜索
-Marketing,行銷
-"SEO & Search","SEO 與搜索"
-"User Content",使用者內容
-Elements,元素
-Schedule,"日程表 "
-"Other Settings",其他設定
-"Data Transfer",檔案傳輸
-"Connect Manager",連線管理員
-"Package Extensions",擴充包
-Tools,工具
-"Web Setup Wizard",網路安裝精靈
-Communications,通信
-Services,服務
-"Disable Modules Output",停用模組輸出
-"Store Email Addresses",存儲電郵地址
-"Custom Email 1","自訂電郵 1"
-"Custom Email 2","自訂電郵 2"
-"General Contact",一般聯絡人
-"Sales Representative",銷售代表
-"Customer Support",客戶支援
-Developer,開發人員
-"Enabled Template Path Hints for Storefront",為店面啟用範本路徑提示
-"Enabled Template Path Hints for Admin",為管理面版啟用範本路徑提示
-"Add Block Names to Hints",提示加上區塊名稱
-"Template Settings",範本設定
-"Allow Symlinks",允許符號連結
-"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.",警告！此功能包含潛在安全風險，生產環境不建議啟用。
-"Minify Html",簡化Html
-"Minification is not applied in developer mode.",開發模式不簡化。
-"Translate Inline",內嵌翻譯
-"Enabled for Storefront",於店面啟用
-"Enabled for Admin",於管理面版啟用
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.",店面和管理面版的內嵌翻譯中，應該停用翻譯、區塊和其它輸出緩存。
-"JavaScript Settings","JavaScript 設定"
-"Merge JavaScript Files","合併 JavaScript 檔案"
-"Enable JavaScript Bundling","啟用 JavaScript 捆綁"
-"Minify JavaScript Files","簡化 JavaScript 檔案"
-"CSS Settings","CSS 設定"
-"Merge CSS Files","合併 CSS 檔案"
-"Minify CSS Files","簡化 CSS 檔案"
-"Image Processing Settings",圖像處理設定
-"Image Adapter",圖像配接器
-"Static Files Settings",靜態檔設定
-"Sign Static Files",靜態檔案電子簽名
-"Country Options",國家選項
-"Allow Countries",允許國家
-"European Union Countries",歐洲聯盟國家
-"Top destinations",熱門目的地
-"Locale Options",地區設定選項
-Timezone,時區
-Locale,語言
-"First Day of Week",一周的第一天
-"Weekend Days",週末天
-"Store Name",商店名稱
-"Store Phone Number",商店電話號碼
-"Store Hours of Operation",商店上班時間
-"ZIP/Postal Code",郵遞區號
-"Street Address Line 2",次行地址
-"VAT Number",增值稅號
-"Single-Store Mode",獨立商店模式
-"Enable Single-Store Mode",啟用獨立商店模式
-"This setting will not be taken into account if system has more than one store view.",如系統有多個店面，此設定將被略過。
-"Mail Sending Settings",郵件發送設定
-"Disable Email Communications",停用電郵通訊
-Host,主機
-"Port (25)",連接埠（25）
-"Set Return-Path",設定返回路徑
-"Return-Path Email",返回路徑電郵
-Admin,管理員
-"Admin User Emails",管理員電郵
-"Forgot Password Email Template",忘記密碼電郵範本
-"Forgot and Reset Email Sender",忘記及重設密碼寄件者
-"Startup Page",起始頁面
-"Admin Base URL",管理面版基礎網址
-"Use Custom Admin URL",使用自訂管理面版網址
-"Custom Admin URL",自訂管理面版網址
-"Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","請確保基礎網址是以 '/' 斜線結尾，例如 http://yourdomain/magento/"
-"Use Custom Admin Path",使用自訂管理路徑
-"Custom Admin Path",自訂管理路徑
-"You will have to sign in after you save your custom admin path.",保存您的自定義管理路徑後，您必須重新登錄。
-Security,安全性
-"Recovery Link Expiration Period (hours)",恢復鏈接到期時間（小時）
-"Please enter a number 1 or greater in this field.",請在此欄位中輸入1或更大的數字。
-"Add Secret Key to URLs","將金鑰添加到 Url"
-"Login is Case Sensitive",登錄名是區分大小寫
-"Admin Session Lifetime (seconds)","管理會話存留期 （秒）"
-"Please enter at least 60 and at most 31536000 (one year).","請輸入至最少 60 和 最多 31536000 （一年）。"
-"Enable Charts",啟用圖表
-"Url Options","Url 選項"
-"Add Store Code to Urls","將店舖代碼添加到 Url"
-"Auto-redirect to Base URL",自動導向至基礎網址
-"Use Web Server Rewrites",使用網站伺服器重寫
-"Base URLs",基礎網址
-"Specify URL or {{base_url}} placeholder.","指定網址或 {{base_url}} 替代字。"
-"Base Link URL",基礎連結網址
-"Base URL for Static View Files",靜態檔案基礎網址
-"May be empty or start with {{unsecure_base_url}} placeholder.","可留空或以 {{unsecure_base_url}} 開始的替代字。"
-"Base URL for User Media Files",媒體檔案基礎網址
-"Base URLs (Secure)",基礎網址（加密）
-"Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","指定網址、{{base_url}} 或 {{unsecure_base_url}} 的替代字。"
-"Secure Base Link URL",加密的基礎連結網址
-"Secure Base URL for Static View Files",加密的靜態檔案基礎網址
-"May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","可留空或以 {{secure_base_url}} 或 {{unsecure_base_url}} 開始的替代字。"
-"Secure Base URL for User Media Files",加密的使用者媒體檔案基礎網址
-"Use Secure URLs on Storefront",在店面使用加密網址
-"Use Secure URLs in Admin",在管理面版使用加密網址
-"Enable HTTP Strict Transport Security (HSTS)","啟用 HTTP 強制安全傳輸技術 （HSTS）"
-"Upgrade Insecure Requests",升級非加密的請求
-"Offloader header",缷載器標頭
-"Default Pages",預設頁面
-"Default Web URL",預設網址
-"Default No-route URL",預設無路徑網址
-"Session Validation Settings",登錄環節驗證設定
-"Validate REMOTE_ADDR","驗證 REMOTE_ADDR"
-"Validate HTTP_VIA","驗證 HTTP_VIA"
-"Validate HTTP_X_FORWARDED_FOR","驗證 HTTP_X_FORWARDED_FOR"
-"Validate HTTP_USER_AGENT","驗證 HTTP_USER_AGENT"
-"Use SID on Storefront","於店面使用 SID"
-"Allows customers to stay logged in when switching between different stores.",允許客戶切換商店時保持登入。
-"Cache Type",緩存類型
-Tags,標籤
-"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404 錯誤</h1><p>找不到頁面。</p>"
-"Community Edition",社區版
-"Default Theme",預設主題
-"If no value is specified, the system default is used. The system default may be modified by third party extensions.",如未指定內容，則使用系統預設值。系統預設值可被第三方擴充包更改。
-"Applied Theme",套用的主題
-"Design Rule",設計規則
-"User Agent Rules",使用者代理規則
-Pagination,分頁
-"How many links to display at once.",一次顯示多少連結。
-"Pagination Frame",分頁框架
-"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.",如當前頁數未能包含頂頁／底頁，連結將顯示為當前位置加／減此值。
-"Pagination Frame Skip",跳頁數量
-"Alternative text for the previous pages link in the pagination menu. If empty, the default arrow image is used.",在分頁功能表的上一個頁連結中，如果替代文字留空，將使用默認的箭頭圖像。
-"Anchor Text for Previous",上頁的連結文字
-"Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.",在分頁功能表的下一個頁連結中，如果替代文字留空，將使用默認的箭頭圖像。
-"Anchor Text for Next",下一張的錨文本
-"Theme Name",主題名稱
-"Please correct the tab configuration and try again. Tab Id should be not empry","請更正分頁配置後重試。分頁 ID 應該不是空白的"
-"Unable to delete store. Please, try again later.",無法刪除商店。請稍後再試。
-"Unable to delete store view. Please, try again later.",無法刪除店面。請稍後再試。
-"Unable to delete website. Please, try again later.",無法刪除網站。請稍後再試。
-"Access denied",存取被拒
-"Please try to sign out and sign in again.",請嘗試登出並重新登錄。
-"If you continue to receive this message, please contact the store owner.",如果您繼續收到此消息，請聯絡店主。
-"Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","版權所有 &copy; %1 Magento Commerce Inc. 保留擁有權利。"
-"Themes JavaScript and CSS files combined to one file.","主題 JavaScript 和 CSS 檔合併到一個檔案。"
-"User-Agent Exceptions",使用者代理例外
-"Find a string in client user-agent header and switch to specific design theme for that browser.",在用戶端使用者代理標題中查找字串並切換到該瀏覽器的具體設計主題。
-"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.",如果現時視框的位置並不包括至上頁，將提供連結到現時位置加減值。
-"Alternative text for previous link in pagination menu. If empty, default arrow image will used.",替代文字在分頁功能表中的上一個連結。如果為空，將使用預設的箭頭圖像。
-"Alternative text for next link in pagination menu. If empty, default arrow image will used.",替代文字在分頁功能表中的下一個連結。如果為空，將使用預設的箭頭圖像。
-"Enable Javascript Bundling","啟用 Javascript Bundling"
-"Recovery Link Expiration Period (days)","恢復連結過期期限 （天）"
-"Values less than 60 are ignored.","數值小於 60 的將被忽略。"
-"Copyright &copy; %1 Magento, Inc. All rights reserved.","&copy; %1 Magento Commerce Inc. 版權所有，並保留所有權利。"
-"Export Settings",匯出設置
-Exclude,排除
-Download,下載
-"Tracking information must contain title, carrier code, and tracking number",追踪訊息必須包含標題，運營商代碼和追蹤號碼。
-"Upload Files",上載檔案
-"Upload File",上載檔案
-File,檔案
-lbs,磅
-kgs,公斤
-"You added %1 to your shopping cart.","您已添加 %1 到您的購物車"
-"The coupon code ""%1"" is not valid.","優惠券代碼""%1""無效。"
-"We can't remove the item.",我們不能刪除產品
-"We can't update the item right now.",我們現在無法更新
-"We can't update the shopping cart.","我們無法更新購物車 "
-"%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 不能延伸 \Magento\Checkout\CustomerData\ItemInterface"
-"Update Shopping Cart",更新購物車
-"Edit item parameters",修改参數
-"Sign In",登入
-"View Details",檢視詳細資料
-"Unable to save shipping information. Please, check input data.",無法儲存寄件資訊。請檢查輸入資料
-"View and edit cart",查看和編輯購物車
+Always,一律
 "After number of attempts to login",嘗試登錄的次數
 "Provided form does not exist",提供的表單不存在
 "Incorrect CAPTCHA",不正確的驗證碼。
@@ -1253,342 +1071,342 @@ Forms,"表單 "
 "Case Sensitive",區分大小寫
 "Enable CAPTCHA on Storefront",啟用在店面上的驗證碼
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.",如果選擇了“創建用戶”和“忘記密碼”表單，一律啟用驗證碼。
-"Please enter the letters from the image",請從圖像，輸入字母
-"Please type the letters below",請鍵入下面的字母
-"Successful! Test again?","成功 ！再次測試嗎？"
-"Connection failed! Test again?","連接失敗 ！再次測試嗎？"
-Uses,使用
-"Add New Search Term",添加新的搜索
-"Search Query",搜尋查詢
-"Redirect URL",重定向超連結
-Synonym,代名詞
-"Deselect all",取消全選
-"%s of %s selected","%s %s 已選中"
-"B2B Features","B2B 特點"
-"Sales Rule",銷售規則
-"Index sales rule",索引銷售規則
-"Last Update",最後更新
-"Copyright © 2017 Magento, Inc. All rights reserved.","&copy; %1 Magento Commerce Inc. 版權所有，並保留所有權利。"
-"Allowed Scopes",允許的範圍
-"You need more permissions to delete this item(s): %1.","你需要更多的權限來刪除此專案︰ %1。"
-"You need more permissions to apply some of the rule updates.",你需要更多的權限才能更新規則。
-"Please assign this entity to a store view.",請將此分配給商店頁面。
-"You can create orders only in an active store.",您只能在已啟用的商店建立訂單。
-"Please assign this item to a store view.",請將此分配給商店頁面。
-"You need more permissions to save this item.",你需要更多的權限保存檔案。
-"You need more permissions to delete this item.",你需要更多權限刪除此檔案。
-"You need more permissions to view this item.",您需要更多權限查看此檔案。
-"Please specify at least one website or one store group.",請最少指定一個網站或商店群組。
-"You need more permissions to set All Scopes to a Role.",您需要更多權限才可以設置用戶角色。
-"Incorrect website ID: %1","不正確的網站 ID: %1"
-"You need more permissions to access website ""%1"".","你需要更多權限訪問此網站""%1""。"
-"Incorrect store ID: %1","不正確的商店 ID: %1"
-"You need more permissions to save this setting.",你需要更多的權限，以保存此設定。
-"Role Scopes",網站角色
-"Review by",評價者
-"You deleted the rule.",您刪除該規則。
-"You saved the rule.",你保存的規則。
-"Applies To",適用於
-"Related Search Terms",相關的搜索詞彙
-"Missing search engine parameter.",找不到搜尋引擎參數
-"Enable Search Recommendations",啟用搜索建議
-"When you enable this option your site may slow down.",當您啟用此選項時您的網站可能會慢下來。
-"Search Recommendations Count",搜索建議數
-"Show Results Count for Each Recommendation",顯示每項建議的結果數
-"Enable Search Suggestions",啟用搜索的建議
-"Search Suggestions Count",搜索建議數
-"Show Results Count for Each Suggestion",顯示每個建議的結果數
-"Suggested Term",建議的條件
-"Manage Shopping Cart",管理購物車
-"Create Order",創建訂單
-"Are you sure you want to clear your cart?",確實要清除您的購物車嗎？
-"Clear my shopping cart",清除我的購物車
-"Add selections to my cart",將選項添加到我的車
-"Shopping Cart for %1 in %2","在 %2 %1 的購物車"
-"Select products you want to buy",選擇你想要買的產品
-"Products in the Comparison List (%1)","在比較清單的產品(%1) "
-"Last ordered items (%1)","上次訂購的項目 (%1)"
-"Recently Compared Products (%1)","最近比較的產品 (%1)"
-"Recently Viewed Products (%1)","最近流覽過的產品 (%1)"
-"Add to Shopping Cart by SKU",從SKU添加到購物車
-"Add to Shopping Cart",添加到購物車
-"Wish List (%1)","願望清單 (%1)"
-"Add to Order by SKU","從 SKU 添加訂單"
-"Add to Order",添加到訂單
-"Add Products to Order",將產品添加到訂單
-"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> 件產品需要注意。</span>"
-"Only %1%2%3 left in stock","庫存中只剩有 %1%2%3"
-"You can buy up to %1 of these per purchase.","每次購買，您最多可以購買 %1。"
-"You must buy at least %1 of these per purchase.","你每次必須購買至少 %1 件產品。"
-"Specify the product's options.",指定的產品選項。
-"Alert me when this item is available.",當產品可買時，請通知我。
-"We can't find this customer.",我們找不到此客戶。
-"Shopping cart management is disabled for this customer.",此客戶的購物車被禁用。
-"We can't find this store.",我們找不到此店。
-"You do not have access to this.",你沒有這個權限。
-"Ordered item id is not received.",訂購的項目ID還没有收到。
-"Ordered item is not loaded.",訂購的項目没有上架。
-"The wish list item id is not received.","願望清單的項目 id沒有收到。"
-"The wish list item is not loaded.",願望清單的項目沒有載入。
-"An error has occurred. See error log for details.",發生錯誤。請參閱錯誤日誌的詳細資訊。
-"You cannot configure a product.",您不能設置的產品。
-"You removed the items.",您刪除了項目。
-"You removed the item.",您刪除了項目。
-"You cannot add a product.",您不能添加產品。
-"Availability: Out of stock.","庫存: 缺貨。"
-"We don't have as many of these as you want.",我們沒有你想要的那麼多
-"You can't add this many to your cart.",您不能添加這麼多到您的購物車。
-"You need to choose options for your item.",您需要為您的項目選擇選項。
-"We can't add the item to your cart.",我們不能添加這項目到您的購物車。
-"Please enter an actual number in the ""Qty"" field.","請在""數量""欄位中輸入的實際數。"
-"This product is assigned to another website.",本產品被分配給另一個網站。
-"You can add only enabled products.",您可以添加只啟用的產品。
-"You cannot upload this file.",你無法上載此檔。
-"The file is empty.",該檔案是空的。
-"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","您還沒有輸入產品的 SKU。請 <a href=""%1""> 按一下此處</a> 以添加產品的 SKU。"
-"You have not entered a product SKU.","您還沒有輸入產品的 SKU。"
-"We can't add a product to cart by id ""%1"".","我們不能添加產品 id ""%1"" 到購物車。"
-"Something went wrong while reordering this product.",本產品在重新排序時發生錯誤。
-"You added %1 product to your shopping cart.","%1 件產品添加到您的購物車。"
-"You added %1 products to your shopping cart.","%1 件產品添加到您的購物車。"
-"%1 product requires your attention.","%1 產品需要您注意。"
-"%1 products require your attention.","%1 產品需要您注意。"
-"The file is corrupt.",該檔已損壞。
-"Please upload the file in .csv format.","請上傳.csv 格式的檔。"
-"%1 item(s) need your attention.","%1 個項目需要您的關注。"
-"No item specified.",沒有指定的項目。
-"Are you sure you want to remove this item?","您是否確定要刪除此項目？ "
-"SKU number","SKU 編號"
-"Your csv file must include ""sku"" and ""qty"" columns.","您的 csv 檔必須有""sku""和""數量""列。"
-"Only <span id=""%1_max_allowed"">%2</span> in stock","只有 <span id=""%1_max_allowed"">%2</span> 的庫存"
-"Products Requiring Attention",需要注意的產品
-"File extensions allowed: .csv",檔副檔名允許︰.csv
-"Add Row",添加行
-"Add Products By SKU","添加產品的 SKU"
-"Shopping Cart Management",購物車管理
-"View Shopping Cart",查看購物車
-"View and modify Shopping Cart",查看和修改購物車
-"Order by SKU Settings","由 SKU 順序"
-"Enable Order by SKU on My Account in Storefront","在店面上我的賬戶啟用 SKU 排序"
-"Apply Coupon",申請優惠券
-"Order by SKU Description","按SKU 描述排列"
-"Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget","定義是否連結到我的帳戶 &gt; 依照SKU 排序的頁面將顯示在widget內"
-"Order by SKU Template",按SKU排序的範本
-"This file needs to be in .csv format.","此檔必須以.csv 格式。"
-Database,資料庫
-Retry,重試
-"%1 item(s) have been scheduled for update.""","%1 項目已經安排更新。"""
-"Bulk Actions Log",批量操作記錄
-"%1 item(s) are currently being updated.",%1項目正在更新。
-"%1 item(s) have been scheduled for update.","%1 項目已經安排更新。"
-"%1 item(s) have been successfully updated.","%1 項目已成功更新。"
-"%1 item(s) failed to update","%1 項目更新失敗"
-Dismiss,忽略
-"%1 items selected for mass update","大規模更新%1 項目"
-", %1 successfully updated","%1 已成功更新"
-", %1 failed to update","%1 更新失敗"
-"Action Log",操作記錄
-"Bulk Actions",批量操作
-"Description of Operation",操作說明
-"Items to Retry",重試項目
-"To retry, select the items and click “Retry”.","要重試，請選中該項目，按一下""重試""。"
-"Items That Can’t Be Updated.",不能更新的項目。
-"Meta Information",元資訊
-"Dismiss All Completed Tasks",關閉所有已完成的任務
-"Action Details - #",操作詳細資訊-#
-"Number of Records Affected",受影響的記錄數目
+Root,根
+"Are you sure you want to delete this category?",是否確實要刪除此類別？
+"Use Config Settings",使用配置設置
+"Use All Available Attributes",使用所有可用的屬性
+"Add Subcategory",添加子類別
+"Add Root Category",添加根類別
+Day,日
+"[STORE VIEW]",[商店總覽]
+"WYSIWYG Editor",所見即所得編輯器
+"Add Product",新增商品
+label,標籤
+"Product Attributes",產品屬性
+"Add New Attribute",添加新的屬性
+"Save Attribute",保存屬性
+"Save in New Attribute Set",保存在新屬性集中
+"Enter Name for New Attribute Set",輸入新屬性集的名稱
+"Delete Attribute",刪除屬性
+"Edit Product Attribute ""%1""","編輯""%1""的產品屬性"
+"New Product Attribute",新的產品屬性
+"Advanced Attribute Properties",進階屬性
+"Attribute Code",屬性代碼
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","這是在內部使用。請確保您不使用空格或多過 %1 個符號。"
+"Default Value",預設值
+"Unique Value",獨特值
+"Unique Value (not shared with other products)","（不能與其他產品共用） 的獨特值"
+"Not shared with other products.",不能與其他產品共用
+"Input Validation for Store Owner",店主的輸入驗證
+"Add to Column Options",添加到列選項
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.",選擇“是”將此屬性添加到產品網格中的列選項清單。
+"Use in Filter Options",使用篩選器選項
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","選擇""是""將此屬性添加到產品網格中的篩選器選項清單中。"
+Website,網站
+Global,全球
+Scope,範圍
+"Storefront Properties",店面的屬性
+"Use in Search",在搜索中的使用
+"Visible in Advanced Search",可見於進階搜尋中
+"Comparable on Storefront",在店面上可以比較
+"Use for Promo Rule Conditions",可以作為促銷條件之一
+"Allow HTML Tags on Storefront","在店面上允許使用 HTML 標籤"
+"Depends on design theme.",取決於設計主題。
+"Used for Sorting in Product Listing",用於排序產品的列表
+"Media Image",媒體形像
+Gallery,圖庫
+"System Properties",系統屬性
+"Data Type for Saving in Database",在數據庫中保存的數據類型
+Text,文字
+Static,靜態
+Datetime,日期時間
+Decimal,小數點
+Integer,整數
+"Attribute Information",屬性信息
+Properties,屬性
+Visible,可見
+"Delete Selected Group",刪除選定的群組
+"You are about to delete all products in this attribute set. Are you sure you want to do that?",您將刪除此屬性中的所有產品。你確定要這麼做嗎？
+Empty,空白
+"Add Attribute",添加產品屬性
+"Add New Group",添加新的群組
+"Add Group",添加群組
+"Based On",根據
+"New Product",新產品
+"Save & Edit",保存與編輯
+"Save & New",保存與新增
+"Save & Duplicate",保存與複製
+"Save & Close",保存和關閉
+Change,"更改 "
+"Advanced Inventory",進階庫存
+Websites,網站
+"Products Information",產品資訊
+"Create Category",新建類別
+"Category Name",類別名稱
+"Parent Category",主要類別
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","如果沒有自訂主類別，請使用預設的主類別。您可以在任何時候重新分配類別 <a href=""%1""target=""_blank""> 產品 > 類別</a>。"
+"Price Alert Subscriptions",價格提示訂閱
+"Stock Alert Subscriptions",庫存提示訂閱
+"There are no customers for this alert.",這個提示沒有客戶。
+"Subscribe Date",訂閱日期
+"Last Notified",最後通知
+"Send Count",發送計數
+"New Attribute",新屬性
+"Attribute Set",屬性集
+"Add New Option",添加新選項
+"Import Options",匯入選項
+Import,匯入
+"Add New Row",添加新行
+"Delete Row",刪除整行
+"Tier Pricing",第層定價
+"Default Price",預設價格
+"ALL GROUPS",所有群組
+"Add Price",添加價格
+"Default Values",預設值
+"Related Products",相關產品
+Up-sells,向上銷售
+Cross-sells,交叉銷售
+"Size for %1"," %1 的大小"
+"Watermark File for %1","%1 的浮水印檔"
+"Position of Watermark for %1","%1 的浮水印的位置"
+"Name in %1","在 %1 的名字"
+"Change Status",更改狀態
+"Add New Images",添加新圖片
+"Inc. Tax",含稅
+"Does this have a weight?",是否包含重量
+"Notify Low Stock RSS",RSS低庫存通知
+"Low Stock Products",低庫存商品
+"%1 has reached a quantity of %2.","%1 的庫存量已達 %2"
+"Go to Home Page",回到首頁
+"Subscribe to RSS Feed",訂閱RSS
+"Products Comparison List",商品比較表
+AM,上午
+PM,下午
+"New Products from %1","%1 的新商品"
+"New Products",新商品
+"%1 - Special Products","%1 - 特殊商品"
+"Click for price",點擊看價格
+"Special Expires On: %1","特價將於 %1 截止"
+"Price: %1","價格: %1"
+"Special Price: %1","特價: %1"
+"Special Products",特殊商品
+"Manage Catalog Categories",型錄分類管理
+"Manage Categories",分類管理
+"You deleted the category.",已刪除該分類
+"Something went wrong while trying to delete the category.",刪除該分類時出現錯誤
+Categories,分類
+"Category is not available for requested store.",該商店無法使用此項分類
+"There was a category move error.",分類移動錯誤
+"You moved the category.",已移動該分類
+"Something went wrong while saving the category.",儲存分類時發生錯誤
+"You saved the category.",分類已儲存
+"Please select products for attributes update.",請選擇商品以更新屬性
+"Please make sure to define SKU values for all processed products.","請確保已為所有產品定義 SKU 值。"
+"Something went wrong while updating the product(s) attributes.",在更新產品的属性時，系统出錯。
+"Unable to add attribute",無法添加該物品的屬性
+"You deleted the product attribute.",你刪除了產品屬性。
+"This attribute cannot be edited.",不能編輯此屬性。
+"Edit Product Attribute",編輯產品屬性
+"Something went wrong while saving the attribute.",保存該屬性時出錯。
+"You saved the product attribute.",你保存了產品屬性。
+"An attribute with this code already exists.",這段代碼的屬性已經存在。
+"An attribute with the same code (%1) already exists.","具有相同代碼 (%1) 的屬性已經存在。"
+"You duplicated the product.",你複製了產品。
+"This product doesn't exist.",此產品不存在。
+"Invalid product id. Should be numeric value greater than 0","不正確產品 id。數位值應該大於 0"
+"A group with the same name already exists.",具有相同名稱的組已存在。
+"Something went wrong while saving this group.",保存該組時出了錯。
+"A total of %1 record(s) have been deleted.","共有 %1 條記錄已被刪除。"
+"A total of %1 record(s) have been updated.","共有 %1 條記錄已更新。"
+"Something went wrong while updating the product(s) status.",更新產品狀態時出了錯。
+"You saved the product.",你保存了產品。
+"SKU for product %1 has been changed to %2.","產品 %1 的產品編號已改為 %2。"
+"The image cannot be removed as it has been assigned to the other image role",圖像無法被刪除，因為它已被分配給其他圖像角色
+"New Attribute Set",新屬性集
+"The attribute set has been removed.",屬性集已刪除。
+"New Set",新集
+"Manage Product Sets",管理產品集
+"Manage Attribute Sets",管理屬性集
+"This attribute set no longer exists.",此屬性設置不再存在。
+"You saved the attribute set.",你保存了屬性集。
+"Something went wrong while saving the attribute set.",保存該屬性時出錯。
+"You cleared the comparison list.",你清除了比較清單。
+"Something went wrong  clearing the comparison list.",清除比較清單時出錯
+"You removed product %1 from the comparison list.","您從比較清單中刪除產品 %1。"
+"1 item",1個項目
+"%1 items","%1 項目"
+"Are you sure you want to remove this item from your Compare Products list?",你確定你要從你的比較產品清單中刪除此項目？
+"Are you sure you want to remove all items from your Compare Products list?",你確定你要從你的比較產品清單中刪除此所有項目？
+"Invalid attribute %1","無效的屬性 %1"
+Grid,格狀
+List,列表
+"Bad controller interface for showing product",壞的控制器界面來顯示產品
+"Product is not loaded",產品未載入
+"Make sure the To Date is later than or the same as the From Date.",確保結束日期必需晚於或等於出發日期。
+"Something went wrong while getting the image url.",獲得圖像URL時出錯。
+"Can't delete root category.",不能刪除根類別。
+"No layout updates",沒有佈局更新
+"Products only",僅產品
+"Could not save product ""%1"" with position %2 to category %3","無法保存產品""%1""與位置 %2 到類別 %3"
+Center,中心
+"Something went wrong while saving the file(s).",在储存文件夹時，系统出錯。
+"We can't rebuild the index for an undefined product.",我們不能為未定義的產品重建索引。
+"The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.Currently there are %1$d of them.Please reduce the number of filterable/sortable attributes in order to use this module","“平面目錄模塊” 有著 %2$d 的限制並擁有可排序的屬性。目前的屬性為 %1$d 。請減少可排序屬性的數量才能使用該產品。"
+"Unsupported product type ""%1"".","不受支持的產品類型""%1""。"
+"Please correct the category.",請更正該類別。
+"Must be category model instance or its id.","必須是模型類別或其 id。"
+"The attribute model is not defined.",模型的屬性未定義。
+Category,類別
+"Clear Price",明確價格
+"Please enter a number 0 or greater in this field.",請在該字段中輸入大過於0的數字。
+"We couldn't copy file %1. Please delete media with non-existing images and try again.",我們不能複製檔案%1。請刪除媒體與不存在的圖片然後重試。
+"File '%1' is not an image.","檔案 '%1' 不是圖片。"
+"Could not delete Prices",不能刪除價格
+"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","我們發現有一個網站與我們的極為相似，打比方，層價格、 客戶組和數量： 客戶組 = %customerGroup，網站 ID = %websiteid，數量 = %qty。行 ID: SKU = %SKU，網站 ID: %websiteid，客戶群： %customerGroup，數量： %qty。"
+"Catalog, Search",目錄，搜索
+"Attribute '%1' is locked. %2","屬性 '%1' 被鎖定。%2"
+name,名稱
+"This operation can take a long time",此操作可能需要很長時間
+"Expand All",全部展開
+"The value of Admin must be unique.",管理員的值必須是唯一的。
+Groups,組合
+"Sorry, we're unable to complete this request.",對不起，我們無法完成這個請求。
+"Delete image",刪除圖片
+Hidden,隐藏
+Role,角色
+"Image Size",圖像大小
+"Image Resolution",圖像分辨率
+"Hide from Product Page",從產品頁面隱藏該產品
+"Allow Multiple Boxes for Shipping",允許多個貨品同時運送
+"Special Price",特價
+"Buy %1 for: ","購買 %1: "
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","每個購買 %2 附送 %1並且<strong class =“benefit”>保存<span class =“percent tier-<span class=""percent tier-%3"">&nbsp;%4 </span>％</strong>"
+"Print This Page",打印此頁
+"Remove Product",刪除该商品
+"Add to Wish List",添加至願望清單
+"Remove This Item",移除此物品
+Compare,比較
+"Clear All",全部清除
+Prev,上一頁
+"We can't find products matching the selection.",我們找不到匹配的產品。
+"Learn More",詳細內容
+"Add to Compare",加入比較
+"We found other products you might like!",以下是你可能喜歡的產品！
+"More Choices:",更多的選擇：
+"select all",全選
+"Items %1-%2 of %3","專案 %3 的 %1－%2"
+"%1 Item","%1 物品"
+"%1 Items","%1 物品"
+Show,顯示
+"We don't recognize or support this file extension type.",我們無法識別或不支援此檔案類型。
+OK,確定
+"This value does not follow the specified format (for example, 200X300).",此數值不符合指定的格式（例如，200X300）。
+"Image Detail",相片詳情
+Adding...,添加中。。。
+Added,已添加
+"unselect all",全部取消選擇
+Inventory,庫存
+Small,小
+"Custom image",自訂圖片
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","使用{{name}} 和{{description}} 作為產品名稱和產品描述內容"
+"Recently Viewed/Compared Products",最近查看的產品/正在比較中的產品
+"Products per Page on Grid Allowed Values",這個網頁允許的產品展示數量
+"All products",全部產品
+"New products",新產品
+Template,範本
+"New Products Images and Names Template",新產品的圖片和名稱範本
+"New Products Names Only Template",新產品名稱範本
+"New Products Images Only Template",新產品圖片範本
+Image,圖像
+"Add to Wishlist",加入願望清單中
+"Category Image",圖像類別
+"Add CMS Block","添加CMS 模塊"
+"Display Settings",顯示設定
+Overview,概覽
+"Learn more",了解更多
+"Edit Event",編輯事件
+"New Permission",新權限
+"Delete Rule",刪除規則
 "Save and Apply",儲存並套用
 "Catalog Price Rule",目錄價格規則
+"Add New Rule",添加新規則
 "Apply Rules",應用規則
+Conditions,條件
 Promotions,促銷
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","我們發現不適用的更新的規則。請按一下""應用規則""來更新您的目錄。"
+"You deleted the rule.",您刪除該規則。
 "New Catalog Price Rule",新目錄價格規則
+"Edit Rule",編輯規則
+"New Rule",新規則
+"You saved the rule.",你保存的規則。
 "Something went wrong while saving the rule data. Please review the error log.",保存規則資料時出了錯。請查看錯誤日誌。
 Promo,促銷
-"Unable to save rule %1","無法保存規則 %1"
-"Rule with specified ID ""%1"" not found.","具有指定 ID""%1""找不到的規則。"
 "Product Attribute",產品屬性
+"We can't find any items matching these search criteria.",我們找不到任何這些搜尋條件匹配的項目。
+"Store View:",店面：
+"Create Permanent Redirect for old URL","tcpu. idv. tw/shoppingcar"
+"We can't remove the item.",我們不能刪除產品
+"We can't update the item right now.",我們現在無法更新
+"We can't update the shopping cart.","我們無法更新購物車 "
+"Page not found.",找不到頁面。
+"%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 不能延伸 \Magento\Checkout\CustomerData\ItemInterface"
+"Update Shopping Cart",更新購物車
+"Proceed to Checkout",結帳
+"Sign In",登入
+"Something went wrong",出現錯誤
+test,測試
+Date,日期
+"Design Theme",設計主題
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.",謝謝您和我們聯繫及您的評論和提問。我們很快就會回覆您。
+Daily,每天
+Weekly,每週
+Monthly,每月
+"Address Book",通訊錄
+"Wish List",願望清單
+"Grand Total",總計
+"Card number",卡號
 Inches,英吋
 inch,英吋
+lbs,磅
+kgs,公斤
+"Upload Files",上載檔案
+"View Order",查看訂單
 "Add New Template",新增範本
-"We can't find the role for the user you wanted.",我們找不到你想要的使用者的角色。
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",編譯允許的資源列表時出錯。您可以在例外日誌中找到更多內容。
-"System Backup",系統備份
-"Database and Media Backup",資料庫和媒體備份
-"Database Backup",資料庫備份
-"The archive can be uncompressed with <a href=""%1"">%2</a> on Windows systems.","可以在Windows系統上使用<a href=""%1"">％2 </a>解壓縮歸檔。"
-"You need more permissions to activate maintenance mode right now.",你現在需要更多的權限來啟動維護模式。
-"To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","若要創建備份，請取消選擇""置於維護模式存儲""，或更新您的權限。"
-"Something went wrong while putting your store into maintenance mode.",將商店置於維護模式時出錯。
-"You need more free space to create a backup.",你需要更多的可用空間來創建備份。
-"You need more permissions to create a backup.",你需要更多的權限來創建一個備份。
-"We can't create the backup right now.",我們現在無法建立備份。
-Backups,備份
-Backup,備份
-"We can't delete one or more backups.",我們不能刪除一個或多個備份。
-failed,失敗
-successful,成功。
-"You deleted the selected backup(s).",刪除所選的備份。
-"Can't load snapshot archive",無法載入快照存檔
-"Please correct the password.",請更正密碼。
-"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.",要完成回滾，請取消“將商店置於維護模式”或更新您的權限。
-"We can't find the backup file.",我們找不到備份檔案。
-"We can't connect to the FTP right now.","我們現在無法連接到 FTP。"
-"Failed to validate FTP.","驗證 FTP 失敗。"
-"You need more permissions to perform a rollback.",您需要更多權限才能執行回滾。
-"Failed to rollback.",無法回滾。
-"Database and Media",資料庫和媒體
-"System (excluding Media)","系統 （不含媒體）"
-"You created the system backup.",您創建了系統備份。
-"You created the system backup (excluding media).","你創建了系統備份 （不包括媒體）。"
-"You created the database and media backup.",您創建了資料庫和媒體備份。
-"You created the database backup.",您創建了資料庫備份。
-"Please correct the order of creation for a new backup.",請更正新備份的創建順序。
-"The backup file does not exist.",備份檔案不存在。
-"The backup file path was not specified.",未指定備份文件路徑。
-"The backup file ""%1"" does not exist.","備份檔案""%1""不存在。"
-"Sorry, but we cannot read from or write to backup file ""%1"".","抱歉，我們不能讀取或寫入備份文件""%1""。"
-"The backup file handler was unspecified.",備份文件處理程序未指定。
-"Something went wrong while writing to the backup file ""%1"".",寫入備份文件“%1”時發生錯誤。
-"You will lose any data created since the backup was made, including admin users, customers and orders.",您將丟失備份後創建的任何數據，包括管理員用戶，客戶和訂單。
-"Are you sure you want to continue?",你確定要繼續嗎？
-"This may take a few moments.",這可能需要幾分鐘。
-"Be sure your store is in maintenance mode during backup.",在備份期間，請確保您的商店處於維護模式。
-"Backup Name",備份名稱
-"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","請在此欄位中使用字母 （a 到 z 或 A 到 Z），數位 (0-9) 或空格。"
-"Maintenance mode",維護模式
-"Please put your store into maintenance mode during backup.",請在備份期間將您的商店置於維護模式。
-"Exclude media folder from backup",從備份中排除媒體檔案夾
-"Please enter the password to confirm rollback.",請輸入密碼以確認回滾。
-"This action cannot be undone.",此動作無法復原。
-"User Password",使用者密碼
-"Please put your store into maintenance mode during rollback processing.",請在回滾處理過程中，把您的商店進入維護模式。
-"Use FTP Connection","使用 FTP 連接"
-"FTP credentials","FTP 憑據"
-"FTP Host","FTP 主機"
-"FTP Login","FTP 登錄名"
-"FTP Password","FTP 密碼"
-"Magento root directory","Magento 根目錄"
-"Create Backup",創建備份
-Rollback,還原
-"Scheduled Backup Settings",計劃備份設置
-"Enable Scheduled Backup",啟用預設備份
-"Backup Type",備份類型
-"Maintenance Mode",維護模式
-"Are you sure you want to delete the selected backup(s)?",確實要刪除所選的備份嗎？
-Size(bytes),"大小 （bytes)"
-"Edit Event",編輯事件
-"Edit Event...",編輯活動...
-"Add Event...",新增活動...
-"You can't use more store credit than the order amount.",您不能使用比訂單金額更多的商店信用額。
-"Read Details",詳細資料
-"Mark as Read",已讀
-"Messages Inbox",收件匣訊息
-"You have %1 new system messages","你有 %1 條新訊息"
-"You have %1 new system message","你有 %1 條新訊息"
-"Incoming Message",收到訊息
-close,關閉
-Notifications,通知
-"The message has been marked as Read.",訊息已標記為已讀。
-"We couldn't mark the notification as Read because of an error.",系統未能標記錯誤提示為已讀。
-"Please select messages.",請選擇訊息。
-"A total of %1 record(s) have been marked as Read.","共有 %1 條記錄已標記為已讀。"
-"Total of %1 record(s) have been removed.","共有 %1 條記錄已被刪除。"
-"We couldn't remove the messages because of an error.",發生錯誤，我們未能刪除訊息。
-"The message has been removed.",該訊息已被刪除。
-"1 Hour","1 小時"
-"2 Hours","2 小時"
-"6 Hours","6 小時"
-"12 Hours","12 小時"
-"24 Hours","24 小時"
-critical,關鍵
-major,主要
-minor,次要
-notice,通知
-"Wrong message type",錯誤訊息類型
-"Wrong notification ID specified.","指定了錯誤的訊息 ID。"
-"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","在生產環境中不建議使用{{base_url}}作為加密／非加密的根網址，建議在Magento<a href=""%1"">設定</a>中更改為其他值。"
-"One or more of the Cache Types are invalidated: %1. ","一個或多個緩存類型都將失效︰ %1。 "
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","請前往<a href=""%1"">緩存管理</a>並刷新緩存類型。"
-"We were unable to synchronize one or more media files. Please refer to the log file for details.",有些媒體檔案未能同步，詳請參考例外日誌。
-"Synchronization of media storages has been completed.",媒體庫同步已完成。
-"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",你的網站伺服器設定未有阻止存取敏感檔案，請聯絡服務供應商。
-"System Messages:",系統訊息︰
-"Critical System Messages",關鍵系統消息
-"Major System Messages",主要系統消息
-"System messages",系統訊息
-"See All (",顯示全部（
-" unread)",未讀）
-"Show Toolbar",顯示工具列
-"Show List",顯示清單
-"Use HTTPS to Get Feed","使用 HTTPS 獲取資料"
-"Update Frequency",更新頻率
-Severity,嚴重程度
-"Date Added",新增日期
-"Close popup",關閉彈出式視窗
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","已顯示所有最新的系統通知。 要清除通知，請重新整理網頁。"
-Banners,橫幅
-"Add Banner",添加橫幅
-"Save Banner",保存橫幅
-"Delete Banner",刪除橫幅
-"New Banner",新橫幅
-"Default Content",預設內容
-"No Default Content",沒有預設內容
-"Banner Default Content for All Store Views",所有商店總覽的預設Banner
-"Store View Specific Content",商店總覽特定內容
-"Related Promotions",相關促銷活動
-"Banner Properties",橫幅屬性
-"Banner Name",橫幅名稱
-"Any Banner Type",任何橫幅類型
-"Specified Banner Types",指定的橫幅類型
-"Specify Types",指定類型
-"Banner Information",橫幅資訊
-Banner,橫幅
-"Banner Type",橫幅類型
-"Are you sure you want to delete these banners?",確實要刪除這些橫幅嗎？
-"Related Banners",相關橫幅
-"This banner does not exist.",這面橫幅不存在。
-"You deleted the banner.",你刪除了橫幅。
-"Something went wrong while deleting banner data. Please review the action log and try again.",刪除橫幅資料時出了錯。請檢查動作記錄並再試一次。
-"We cannot find a banner to delete.",我們找不到要刪除的橫幅。
-"This banner no longer exists.",這面橫幅不存在。
-"Edit Banner",編輯橫幅
-"Please select a banner(s).",請選擇橫幅。
-"You deleted %1 record(s).","你刪除 %1 記錄。"
-"Something went wrong while mass-deleting banners. Please review the action log and try again.","大量刪除橫幅時出現問題。 請查看操作日誌，然後重試。"
-"You saved the banner.",你保存了橫幅。
-"We cannot save the banner.",我們無法保存橫幅。
-"Please enter a name.",請輸入一個名稱。
-"Please specify default content for at least one store view.",請最少於商店總覽內指定一項預設的內容
-"-- None --","-- 無 --"
-"Related Catalog Price Rules",相關目錄價格規則
-"Manage Banners",管理橫幅
-"Banner Rotator",旋轉Banner
-"Displays Specified or Promotion Banners",顯示指定或促銷橫幅
-"Banners to Display",顯示橫幅
-"Specified Banners",指定的橫幅
-"Shopping Cart Promotions Related",購物車促銷相關
-"Catalog Promotions Related",目錄相關的促銷活動
-"Restrict by Banner Types",按橫幅類型限制
-"Rotation Mode",旋轉模式
-"Display all instead of rotating",顯示全部而不是旋轉
-"One at the time, Random",一次，隨機
-"One at the time, Series",一次，系列
-"One at the time, Shuffle",一次，洗牌
-"Specify Banners",指定橫幅
-"Banner Block Template",橫幅塊範本
-"Banner Inline Template",橫幅內聯範本
-"Sorry, there has been an error processing your request. Please try again later.",對不起，在處理您的請求時出現錯誤。請稍後重試。
+"Encryption Key",加密金鑰
+"Private Sales",私人銷售
+"1 Day Freight","1 天貨運"
+"Send to Google",發送給Google
+"Export Settings",匯出設置
+Wishlist,願望清單
+"My Wish Lists",我的願望清單
+"1 item in wish list","願望清單有 1 個項目"
+"%1 items in wish list","願望清單有 %1 個項目"
+"Copy to Wish List",複製到願望清單
+"Move Selected to Wish List",移動選定項目至願望清單
+"Copy Selected to Wish List",複製選定項目至願望清單
+"Shipping Price",運費
+"Export CSV","匯出 CSV"
+"Welcome, %1!","歡迎您，%1 ！"
+"Not you?",不是你嗎？
+"Read Product Price",查閱產品價格
+"Images and Videos",圖片和影片
+"Minimum order amount is %1",最小數量是1%
+Copy,複製
+Ok,確定
+"Review by",評價者
+"Select Items",選擇項目
+"Print Order",列印訂單
+"We couldn't logout because of an error.",由於發生錯誤，我們不能登出。
+Filename,檔案名稱
+"Invalid store parameter.",無效的存儲參數。
+"Zip/Post Code",郵政編碼
+"UPS Next Day Air","UPS 次日空運送到"
+"UPS Worldwide Express","UPS 全球速遞"
+"Add Tax",新增稅項
+"Delete Tax",刪除稅項
 "Wish List Sharing",分享願望清單
 "My Wish List",我的願望清單
-"Subscription status",訂閱狀態
-"There was an error save new configuration value.",保存新配值時出現錯誤。
-"Command was not found.",找不到命令。
-TestMessage,測試訊息
-"Apps and Games",應用程式和遊戲
-"Athletic/Sporting Goods",體育/運動用品
-"Art and Design",藝術與設計
-Analytics,分析
-"Invalid store parameter.",無效的存儲參數。
+"Credit card type",信用卡類型
+"CVV result","CVV 結果"
 "Backup options",備份選項
 Warning,警告
