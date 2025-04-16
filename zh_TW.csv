@@ -22,7 +22,6 @@ Notifications,通知
 "Total of %1 record(s) have been removed.","共有 %1 條記錄已被刪除。"
 "We couldn't remove the messages because of an error.",發生錯誤，我們未能刪除訊息。
 "The message has been removed.",該訊息已被刪除。
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","已顯示所有最新的系統通知。 要清除通知，請重新整理網頁。"
 "1 Hour","1 小時"
 "2 Hours","2 小時"
 "6 Hours","6 小時"
@@ -56,6 +55,7 @@ Severity,嚴重程度
 "Date Added",新增日期
 Message,訊息
 Actions,動作
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","已顯示所有最新的系統通知。 要清除通知，請重新整理網頁。"
 "Manage Shopping Cart",管理購物車
 "Create Order",創建訂單
 Back,上一步
@@ -508,12 +508,12 @@ System,系統
 "An inactive store view cannot be saved as default store view",處於非活動狀態店面不能保存為預設店面
 "You saved the store.",你已儲存了商店。
 "Something went wrong while saving. Please review the error log.",儲存時出錯，請查看錯誤日誌。
-"Authentication storage is incorrect.",不正確的認證記憶。
 "Last 24 Hours","最近 24 小時"
 "Last 7 Days","最近 7 天"
 "Current Month",這個月
 YTD,本年度
 2YTD,兩年度
+"Authentication storage is incorrect.",不正確的認證記憶。
 Order,訂單
 "Order #%1","訂單 #%1"
 "Welcome, please sign in",歡迎光臨，請先登錄
@@ -522,9 +522,9 @@ Username,帳號
 Password,密碼
 password,密碼
 "Sign in",登入
+"Select Range:",選擇範圍︰
 "No Data Found",找不到資料
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","圖表已停用。若要啟用圖表，請按 <a href=""%1"">這裡</a>。"
-"Select Range:",選擇範圍︰
 "Last Orders",最新訂單
 "Last Search Terms",最新搜尋
 "Top Search Terms",熱門搜尋
@@ -581,7 +581,6 @@ selected,"已選的 "
 "This tab contains invalid data. Please resolve this before saving.","此選項卡包含無效數據。 保存前請解決此問題。"
 "The information in this tab has been changed.",此選項卡中的資訊已更改。
 Loading...,載入中...
-"User Agent Rules",使用者代理規則
 "We could not detect a size.",我們無法檢測到大小。
 "Allow everything",允許一切
 "Magento Admin","Magento 管理員"
@@ -724,6 +723,7 @@ Tags,標籤
 "Default Theme",預設主題
 "Applied Theme",套用的主題
 "Design Rule",設計規則
+"User Agent Rules",使用者代理規則
 Pagination,分頁
 "How many links to display at once.",一次顯示多少連結。
 "Pagination Frame",分頁框架
@@ -815,6 +815,7 @@ Active,激活
 Inactive,閒置
 "Applies To",適用於
 "Specify Types",指定類型
+Visibility,可見度
 Position,位置
 "This rule no longer exists.",此規則不再存在。
 "You deleted %1 record(s).","你刪除 %1 記錄。"
@@ -825,7 +826,6 @@ Position,位置
 "One at the time, Random",一次，隨機
 "One at the time, Series",一次，系列
 "One at the time, Shuffle",一次，洗牌
-Visibility,可見度
 "Allowed Credit Card Types",允許的信用卡類型
 "Add Rule",新增規則
 "Braintree Settlement Report","Braintree 結算報告"
@@ -1025,8 +1025,8 @@ Invoiced,已開票
 Shipped,已寄送
 Refunded,已退款
 Canceled,已取消
-"Regular Price",原價
 "As low as",低至
+"Regular Price",原價
 "Buy %1 with %2 discount each","每買 %1 有%2 折扣"
 "Go back to product details",返回到產品詳細資訊
 "Customize and Add to Cart",自訂並添加到購物車
@@ -1072,7 +1072,6 @@ Forms,"表單 "
 "Enable CAPTCHA on Storefront",啟用在店面上的驗證碼
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.",如果選擇了“創建用戶”和“忘記密碼”表單，一律啟用驗證碼。
 Root,根
-"Are you sure you want to delete this category?",是否確實要刪除此類別？
 "Use Config Settings",使用配置設置
 "Use All Available Attributes",使用所有可用的屬性
 "Add Subcategory",添加子類別
@@ -1198,8 +1197,8 @@ Categories,分類
 "Category is not available for requested store.",該商店無法使用此項分類
 "There was a category move error.",分類移動錯誤
 "You moved the category.",已移動該分類
-"Something went wrong while saving the category.",儲存分類時發生錯誤
 "You saved the category.",分類已儲存
+"Something went wrong while saving the category.",儲存分類時發生錯誤
 "Please select products for attributes update.",請選擇商品以更新屬性
 "Please make sure to define SKU values for all processed products.","請確保已為所有產品定義 SKU 值。"
 "Something went wrong while updating the product(s) attributes.",在更新產品的属性時，系统出錯。
@@ -1211,6 +1210,7 @@ Categories,分類
 "You saved the product attribute.",你保存了產品屬性。
 "An attribute with this code already exists.",這段代碼的屬性已經存在。
 "An attribute with the same code (%1) already exists.","具有相同代碼 (%1) 的屬性已經存在。"
+"The value of Admin must be unique.",管理員的值必須是唯一的。
 "You duplicated the product.",你複製了產品。
 "This product doesn't exist.",此產品不存在。
 "Invalid product id. Should be numeric value greater than 0","不正確產品 id。數位值應該大於 0"
@@ -1268,7 +1268,6 @@ Category,類別
 name,名稱
 "This operation can take a long time",此操作可能需要很長時間
 "Expand All",全部展開
-"The value of Admin must be unique.",管理員的值必須是唯一的。
 Groups,組合
 "Sorry, we're unable to complete this request.",對不起，我們無法完成這個請求。
 "Delete image",刪除圖片
@@ -1300,7 +1299,6 @@ Prev,上一頁
 Show,顯示
 "We don't recognize or support this file extension type.",我們無法識別或不支援此檔案類型。
 OK,確定
-"This value does not follow the specified format (for example, 200X300).",此數值不符合指定的格式（例如，200X300）。
 "Image Detail",相片詳情
 Adding...,添加中。。。
 Added,已添加
@@ -1324,6 +1322,8 @@ Image,圖像
 "Display Settings",顯示設定
 Overview,概覽
 "Learn more",了解更多
+"Are you sure you want to delete this category?",是否確實要刪除此類別？
+"This value does not follow the specified format (for example, 200X300).",此數值不符合指定的格式（例如，200X300）。
 "Edit Event",編輯事件
 "New Permission",新權限
 "Delete Rule",刪除規則
@@ -1353,6 +1353,9 @@ Promo,促銷
 "Update Shopping Cart",更新購物車
 "Proceed to Checkout",結帳
 "Sign In",登入
+"Create Folder...",建立資料夾…
+"Delete Folder",刪除資料夾
+"Delete File",刪除檔案
 "Something went wrong",出現錯誤
 test,測試
 Date,日期
@@ -1386,8 +1389,8 @@ Wishlist,願望清單
 "Copy Selected to Wish List",複製選定項目至願望清單
 "Shipping Price",運費
 "Export CSV","匯出 CSV"
-"Welcome, %1!","歡迎您，%1 ！"
 "Not you?",不是你嗎？
+"Welcome, %1!","歡迎您，%1 ！"
 "Read Product Price",查閱產品價格
 "Images and Videos",圖片和影片
 "Minimum order amount is %1",最小數量是1%
